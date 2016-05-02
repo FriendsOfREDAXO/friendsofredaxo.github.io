@@ -12,8 +12,19 @@ Interesse? Großartig. Mach’ dich irgendwie bemerkbar ([Github-Issue](https://
 
 ## Warum?
 
-`TODO`
+Es steht dir vollkommen frei, weiterhin Dinge auf eigene Faust zu entwickeln. Es ist kein Makel oder schlechter Stil, die Entwicklung eines Projekts nicht mit anderen teilen zu wollen. Im Gegenteil, es kann gute Gründe dafür geben, dein Projekt bei dir zu behalten — niemand weiß das besser als du selbst.
 
+Es gibt aber auch viele gute Gründe für die Gemeinschaft:
+
+* __Spaß und Motivation:__ Ein Projekt allein zu stemmen kann dich positiv fordern, kann manchmal aber auch nerven und eine Last sein. Ein Team um dich herum kann die Motivation fördern.
+* __Qualität:__ Alle Beteiligten validieren regelmäßig die Entwicklung. Die Chance ist groß, dass dein Projekt damit an Erfahrung und Qualität gewinnt.
+* __Effizienz:__ Du musst nicht mehr alles im Projekt selbst machen. Mache das, was dir Spaß macht und worin du gut bist. Der Rest wird sich finden.
+* __Lernen:__ Selten ist jemand in allen Disziplinen richtig gut. Lerne von anderen und vermittle selbst Wissen. Nicht nur technische Dinge übrigens, sondern auch im Miteinander.
+* __Stabilität:__ Solltest du mal kein Interesse oder keine Zeit mehr für dein Projekt haben — sowas kommt leider nicht selten vor —, wird es von der Community aufgefangen.
+
+Werde gerne Teil der Gemeinschaft. Auch wenn du dich erstmal nur umschauen möchtest und noch kein konkretes Projekt im Sinn hast.
+
+Falls du ein bestehendes REDAXO-Projekt zukünftig gemeinsam weiterentwickeln möchtest, ist das ganz einfach. Innerhalb der Settings für dein Projekt gibt es die Option »Transfer ownership«. Übertrage das Projekt dieser Gruppe (FriendsOfREDAXO) und schreibe danach ggfls. ein paar Worte (als Github-Issue oder in die README), wie du dir die Entwicklung vorstellst.
 
 ## Regeln
 
