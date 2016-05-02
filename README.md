@@ -43,10 +43,10 @@ Diese Regeln sind nicht in Stein gemeißelt.
 * Nutzt __Github-Wikis__ und die README.md, um ausführliche Infos zum Projekt anzubringen.
 * Nutzt __Screenshots__ um zu zeigen, wie ein Projekt aussieht. _(Best Practice: Einen Branch `assets` für Screenshots anlegen und in der README des Master-Branches verlinken.)_
 
+---
 
 ## TODO
 
-* Warum? (siehe oben)
 * Workflow Fork, Feature Branch, Pull Request, Merge
 * Workflow Addon veröffentlichen
 * Info Addon-Vorlage/Dummy
