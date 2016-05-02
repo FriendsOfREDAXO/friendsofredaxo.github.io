@@ -1,2 +1,3 @@
-# Info
-Informationen zum Projekt Friends Of REDAXO
+# Informationen zum Projekt
+
+Informationen folgen.
