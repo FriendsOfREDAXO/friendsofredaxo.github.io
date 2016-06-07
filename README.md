@@ -39,7 +39,7 @@ Diese Regeln sind nicht in Stein gemeißelt.
 
 ## Wünsche und Ideen?
 
-Du hast Wünsche oder Ideen für neue Addons? Oder allgemein zu Friends Of REDAXO?
+Du hast Wünsche oder Ideen für neue Addons? Oder allgemein zu Friends Of REDAXO?  
 Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issues) anlegen. Danke dir!
 
 ## Tipps
