@@ -37,6 +37,11 @@ Dazu noch ein Tipp, der allgemein für Github gilt: Wer größere Anpassungen vo
 
 Diese Regeln sind nicht in Stein gemeißelt.
 
+## Wünsche und Ideen?
+
+Du hast Wünsche oder Ideen für neue Addons? Oder allgemein zu Friends Of REDAXO?
+Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issues) anlegen. Danke dir!
+
 ## Tipps
 
 * Nutzt __Github-Issues__ für Diskussionen und Abstimmungen! Verwendet __Labels__, um zu kennzeichnen, wo Abstimmungsbedarf besteht oder Hilfe benötigt wird. Weist Issues gezielt Personen zu, um zu verdeutlichen, wo Entwicklung stattfindet (und damit nicht doppelt gemacht wird).
