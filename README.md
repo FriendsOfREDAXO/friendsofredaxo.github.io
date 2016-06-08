@@ -43,7 +43,7 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 * Nutzt __Github-Issues__ für Diskussionen und Abstimmungen! Verwendet __Labels__, um zu kennzeichnen, wo Abstimmungsbedarf besteht oder Hilfe benötigt wird. Weist Issues gezielt Personen zu, um zu verdeutlichen, wo Entwicklung stattfindet (und damit nicht doppelt gemacht wird).
 * Nutzt __Github-Wikis__ und die README.md, um ausführliche Infos zum Projekt anzubringen.
 * Nutzt __Screenshots__ um zu zeigen, wie ein Projekt aussieht. _(Best Practice: Einen Branch `assets` für Screenshots anlegen und in der README des Master-Branches verlinken.)_
-* Nutzt das __Dummy-Addon__ um zu sehen, wie man Addons für REDAXO 5 baut. Es ist sehr hilfreich.
+* Nutzt das __[Dummy-Addon](https://github.com/FriendsOfREDAXO/dummy)__ um zu sehen, wie man Addons für REDAXO 5 baut. Es ist sehr hilfreich.
 
 ## Anleitungen
 
