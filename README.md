@@ -20,7 +20,7 @@ Es gibt aber auch viele gute Gründe für die Gemeinschaft:
 
 Werde gerne Teil der Gemeinschaft. Auch wenn du dich erstmal nur umschauen möchtest und noch kein konkretes Projekt im Sinn hast.
 
-Falls du ein bestehendes REDAXO-Projekt zukünftig gemeinsam weiterentwickeln möchtest, ist das ganz einfach. Innerhalb der Settings für dein Projekt gibt es die Option »Transfer ownership«. Übertrage das Projekt dieser Gruppe (FriendsOfREDAXO) und schreibe danach ggfls. ein paar Worte (als Github-Issue oder in die README), wie du dir die Entwicklung vorstellst.
+Falls du ein bestehendes REDAXO-Projekt zukünftig gemeinsam weiterentwickeln möchtest, ist das ganz einfach. [Übertrage das Projekt dieser Gruppe](#ein-addon-zu-den-friends-of-redaxo-übertragen) (FriendsOfREDAXO) und schreibe danach ggfls. ein paar Worte (als Github-Issue oder in die README), wie du dir die Entwicklung vorstellst.
 
 ## Regeln
 
