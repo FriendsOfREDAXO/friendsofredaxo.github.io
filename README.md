@@ -47,6 +47,13 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 
 ## Anleitungen
 
+#### Ein Addon zu den Friends Of REDAXO übertragen
+
+* In den Repository-Settings "Transfer ownership" auswählen und das Repository an diese Organisation übertragen
+* Den Autor überall (insbesondere in der `package.yml`) in "Friends Of REDAXO" ändern
+* Die Supportpage in der `package.yml` auf die URL des GitHub-Repositorys setzen und allgemein alle Links zum Repository anpassen
+* Falls das Addon schon in deinem MyREDAXO-Account liegt, um einen Übertrag zum gemeinsamen MyREDAXO-Account bitten
+
 #### Ein Addon veröffentlichen
 
 TODO
