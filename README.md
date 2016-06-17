@@ -20,7 +20,7 @@ Es gibt aber auch viele gute Gründe für die Gemeinschaft:
 
 Werde gerne Teil der Gemeinschaft. Auch wenn du dich erstmal nur umschauen möchtest und noch kein konkretes Projekt im Sinn hast.
 
-Falls du ein bestehendes REDAXO-Projekt zukünftig gemeinsam weiterentwickeln möchtest, ist das ganz einfach. Innerhalb der Settings für dein Projekt gibt es die Option »Transfer ownership«. Übertrage das Projekt dieser Gruppe (FriendsOfREDAXO) und schreibe danach ggfls. ein paar Worte (als Github-Issue oder in die README), wie du dir die Entwicklung vorstellst.
+Falls du ein bestehendes REDAXO-Projekt zukünftig gemeinsam weiterentwickeln möchtest, ist das ganz einfach. [Übertrage das Projekt dieser Gruppe](#ein-addon-zu-den-friends-of-redaxo-übertragen) (FriendsOfREDAXO) und schreibe danach ggfls. ein paar Worte (als Github-Issue oder in die README), wie du dir die Entwicklung vorstellst.
 
 ## Regeln
 
@@ -46,6 +46,13 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 * Nutzt das __[Dummy-Addon](https://github.com/FriendsOfREDAXO/dummy)__ um zu sehen, wie man Addons für REDAXO 5 baut. Es ist sehr hilfreich.
 
 ## Anleitungen
+
+#### Ein Addon zu den Friends Of REDAXO übertragen
+
+* In den Repository-Settings "Transfer ownership" auswählen und das Repository an diese Organisation übertragen
+* Den Autor überall (insbesondere in der `package.yml`) in "Friends Of REDAXO" ändern
+* Die Supportpage in der `package.yml` auf die URL des GitHub-Repositorys setzen und allgemein alle Links zum Repository anpassen
+* Falls das Addon schon in deinem MyREDAXO-Account liegt, um einen Übertrag zum gemeinsamen MyREDAXO-Account bitten
 
 #### Ein Addon veröffentlichen
 
