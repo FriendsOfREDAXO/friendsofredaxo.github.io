@@ -68,7 +68,7 @@ TODO
 
 #### Einen leeren Assets-Branch anlegen
 
-Einen neuen Assets-Branch solltest du besser nicht aus dem vollen Master-Branch heraus erstellen und danach leeren, sondern gleich leer anlegen. Das geht so:
+Einen neuen Assets-Branch — z. B. für Screenshots in der README — solltest du besser nicht aus dem vollen Master-Branch heraus erstellen und danach leeren, sondern gleich leer anlegen. Das geht so:
 
 ```
 git checkout --orphan assets
