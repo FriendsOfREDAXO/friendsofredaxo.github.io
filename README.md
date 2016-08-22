@@ -68,7 +68,9 @@ Aktuell werden Addons im Namen von Friends Of REDAXO noch von Hand veröffentlic
 
 #### Einen Pull Request mergen
 
-TODO
+Vier-Augen-Prinzip: Wenn ein neuer Pull Request rein kommt, sollte nicht gleich gemerged werden, sondern dem Team etwas Zeit gelassen werden, sich den Code anzuschauen. Danach wird der Pull Request für gewöhnlich von der Person gemerged, die das Projekt gestartet hat, oder aber von denjenigen, die aktiv am Projekt entwickeln.
+
+Der Merge selbst ist übrigens nur ein Klick — und gerne auch ein »Danke« hinterher! 🎉
 
 #### Einen leeren Assets-Branch anlegen
 
