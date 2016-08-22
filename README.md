@@ -54,6 +54,14 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 * Die Supportpage in der `package.yml` auf die URL des GitHub-Repositorys setzen und allgemein alle Links zum Repository anpassen
 * Falls das Addon schon in deinem MyREDAXO-Account liegt, um einen Übertrag zum gemeinsamen MyREDAXO-Account bitten
 
+#### Ein Release eines Addons erstellen
+
+* Versionsnummern (sofern vorhanden, z. B. bei Addons) sollten erst unmittelbar vorm Release hochgesetzt werden. Damit bekommen auch diejenigen, die vorher eine Develop-Version aus dem Repo getestet haben, das finale Release über den Installer.
+* Releases sollten immer auch bei Github zu finden sein, nicht nur auf redaxo.org veröffentlicht werden.
+* Es gibt Bonuspunkte für sinnvolle Releasebeschreibungen mit Links auf bestehenden Issues und/oder Pull Requests! 💯
+
+Workflow: Commits > Versionsnummer erhöhen > Tag > Release > Veröffentlichung auf redaxo.org
+
 #### Ein Addon veröffentlichen
 
 Aktuell werden Addons im Namen von Friends Of REDAXO noch von Hand veröffentlicht. Es gibt einen gemeinsamen myREDAXO-Account, dessen Passwort wir untereinander austauschen, ohne es irgendwo zu hinterlegen. Zukünftig soll es einen Automatismus geben, der Github-Releases eigenständig auf redaxo.org veröffentlichen kann (siehe [Info/#2](https://github.com/FriendsOfREDAXO/Info/issues/2)).
