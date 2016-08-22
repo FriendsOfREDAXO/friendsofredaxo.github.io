@@ -58,9 +58,13 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 
 Aktuell werden Addons im Namen von Friends Of REDAXO noch von Hand veröffentlicht. Es gibt einen gemeinsamen myREDAXO-Account, dessen Passwort wir untereinander austauschen, ohne es irgendwo zu hinterlegen. Zukünftig soll es einen Automatismus geben, der Github-Releases eigenständig auf redaxo.org veröffentlichen kann (siehe [Info/#2](https://github.com/FriendsOfREDAXO/Info/issues/2)).
 
-#### Einen Pull Request starten
+#### Ein Repo forken, um einen Pull Request zu starten
 
-TODO
+1. Im Repo oben rechts »Fork« benutzen, danach liegt das Projekt als Kopie mit dem aktuellen Stand in deinem Account.
+2. In _deinem_ Repo einen neuen Branch aus dem Master-Branch heraus erstellen. Falls du keinen konkreten Namen im Sinn hast, bietet sich sowas wie `patch1` an. Dann kannst du fortlaufend zählen, falls weitere Patches hinzukommen. Und warum überhaupt ein separater Branch? Weil der Branch nach einem Pull Request so lange offen für weitere Commits bleibt, bis der Pull Request geschlossen wurde. Das sollte besser nicht dein Master-Branch sein, sonst bist du solange unnötig eingeschränkt.
+3. Sobald du fertig mit deinem Code bist, kannst du auf der Github-Seite _deines_ Projekts einen Pull Request für den gewünschten Branch starten. Gib eine möglichst sinnvolle Beschreibung ein, damit dein Team versteht, worum es geht.
+4. Der Pull Request kann nun im Team besprochen und anschließend gemerged werden.
+5. Jetzt kannst du die Branches wieder aus _deinem_ Projekt löschen. Und für den Fall, dass du frische Updates aus dem Original-Repo holen möchtest, musst du noch den Upstream einrichten, siehe [»Configuring a remote for a fork«](https://help.github.com/articles/configuring-a-remote-for-a-fork/) und [»Syncing a fork«](https://help.github.com/articles/syncing-a-fork/).
 
 #### Einen Pull Request mergen
 
