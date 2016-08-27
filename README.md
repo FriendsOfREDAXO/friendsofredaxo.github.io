@@ -60,7 +60,7 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 * Releases sollten am besten erst vollständig bei Github erstellt, danach in gleicher Form auf redaxo.org veröffentlicht werden.
 * Es gibt Bonuspunkte für sinnvolle Releasebeschreibungen mit [Links auf zugehörige Issues und Pull Requests](https://guides.github.com/features/issues/#notifications)! 💯
 
-Workflow: Commits > Versionsnummer erhöhen > Tag > Release > Veröffentlichung auf redaxo.org
+Workflow: Commits > Versionsnummer erhöhen > __Tag & Release__ 👯 > Veröffentlichung auf redaxo.org > Commits > …
 
 #### Ein Addon veröffentlichen
 
