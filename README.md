@@ -47,14 +47,14 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 
 ## Anleitungen
 
-#### Ein Addon zu den Friends Of REDAXO übertragen
+### Ein Addon zu den Friends Of REDAXO übertragen
 
 * In den Repository-Settings "Transfer ownership" auswählen und das Repository an diese Organisation übertragen
 * Den Autor überall (insbesondere in der `package.yml`) in "Friends Of REDAXO" ändern
 * Die Supportpage in der `package.yml` auf die URL des GitHub-Repositorys setzen und allgemein alle Links zum Repository anpassen
 * Falls das Addon schon in deinem MyREDAXO-Account liegt, um einen Übertrag zum gemeinsamen MyREDAXO-Account bitten
 
-#### Ein Release eines Addons erstellen
+### Ein Release eines Addons erstellen
 
 * Versionsnummern (sofern vorhanden, z. B. bei Addons) sollten erst unmittelbar vorm Release hochgesetzt werden. Damit bekommen auch diejenigen, die vorher eine Develop-Version aus dem Repo getestet haben, das finale Release über den Installer.
 * Releases sollten am besten erst vollständig bei Github erstellt, danach in gleicher Form auf redaxo.org veröffentlicht werden.
@@ -62,11 +62,11 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 
 Workflow: Commits > Versionsnummer erhöhen > __Tag & Release__ 👯 > Veröffentlichung auf redaxo.org > Commits > …
 
-#### Ein Addon veröffentlichen
+### Ein Addon veröffentlichen
 
 Aktuell werden Addons im Namen von Friends Of REDAXO noch von Hand veröffentlicht. Es gibt einen gemeinsamen myREDAXO-Account, dessen Passwort wir untereinander austauschen, ohne es irgendwo zu hinterlegen. Zukünftig soll es einen Automatismus geben, der Github-Releases eigenständig auf redaxo.org veröffentlichen kann (siehe [Info/#2](https://github.com/FriendsOfREDAXO/Info/issues/2)).
 
-#### Ein Repo forken, um einen Pull Request zu starten
+### Ein Repo forken, um einen Pull Request zu starten
 
 1. Im Repo oben rechts »Fork« benutzen, danach liegt das Projekt als Kopie mit dem aktuellen Stand in deinem Account.
 2. In _deinem_ Repo einen neuen Branch aus dem Master-Branch heraus erstellen. Falls du keinen konkreten Namen im Sinn hast, bietet sich sowas wie `patch1` an. Dann kannst du fortlaufend zählen, falls weitere Patches hinzukommen. Und warum überhaupt ein separater Branch? Weil der Branch nach einem Pull Request so lange offen für weitere Commits bleibt, bis der Pull Request geschlossen wurde. Das sollte besser nicht dein Master-Branch sein, sonst bist du solange unnötig eingeschränkt.
@@ -74,13 +74,13 @@ Aktuell werden Addons im Namen von Friends Of REDAXO noch von Hand veröffentlic
 4. Der Pull Request kann nun im Team besprochen und anschließend gemerged werden.
 5. Jetzt kannst du die Branches wieder aus _deinem_ Projekt löschen. Und für den Fall, dass du frische Updates aus dem Original-Repo holen möchtest, musst du noch den Upstream einrichten, siehe [»Configuring a remote for a fork«](https://help.github.com/articles/configuring-a-remote-for-a-fork/) und [»Syncing a fork«](https://help.github.com/articles/syncing-a-fork/).
 
-#### Einen Pull Request mergen
+### Einen Pull Request mergen
 
 Vier-Augen-Prinzip: Wenn ein neuer Pull Request rein kommt, sollte nicht gleich gemerged werden, sondern dem Team etwas Zeit gelassen werden, sich den Code anzuschauen. Danach wird der Pull Request für gewöhnlich von der Person gemerged, die das Projekt gestartet hat, oder aber von denjenigen, die aktiv am Projekt entwickeln.
 
 Der Merge selbst ist übrigens nur ein Klick — und gerne auch ein »Danke« hinterher! 🎉
 
-#### Einen leeren Assets-Branch anlegen
+### Einen leeren Assets-Branch anlegen
 
 Einen neuen Assets-Branch — z. B. für Screenshots in der README — solltest du besser nicht aus dem vollen Master-Branch heraus erstellen und danach leeren, sondern gleich leer anlegen. Das geht so:
 
