@@ -49,10 +49,11 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 
 ### Ein Addon zu den Friends Of REDAXO übertragen
 
-* In den Repository-Settings "Transfer ownership" auswählen und das Repository an diese Organisation übertragen
-* Den Autor überall (insbesondere in der `package.yml`) in "Friends Of REDAXO" ändern
-* Die Supportpage in der `package.yml` auf die URL des GitHub-Repositorys setzen und allgemein alle Links zum Repository anpassen
-* Falls das Addon schon in deinem MyREDAXO-Account liegt, um einen Übertrag zum gemeinsamen MyREDAXO-Account bitten
+1. Benutze in den Repository-Settings die Option "Transfer ownership", um dein Repository an Friends Of REDAXO zu übertragen.
+2. Ändere den Autor überall in "Friends Of REDAXO", insbesondere in der `package.yml`.
+3. Ändere die Supportpage in der `package.yml` auf die URL des neuen GitHub-Repositorys und passe auch andere Links zum Repository an.
+4. Falls das Addon bereits in deinem MyREDAXO-Account angelegt wurde — du also den Addon-Key besitzt —, bitte die Admins darum, das Addon den Friends Of REDAXO zu übertragen.
+5. Nach erfolgreicher Übertragung könntest du — könnten wir! — ein neues Major-Release veröffentlichen, damit es alle mitbekommen. 🍾
 
 ### Ein Release eines Addons erstellen
 
@@ -82,7 +83,7 @@ Der Merge selbst ist übrigens nur ein Klick — und gerne auch ein »Danke« hi
 
 ### Einen leeren Assets-Branch anlegen
 
-Einen neuen Assets-Branch — z. B. für Screenshots in der README — solltest du besser nicht aus dem vollen Master-Branch heraus erstellen und danach leeren, sondern gleich leer anlegen. Das geht so:
+Einen neuen Assets-Branch — z. B. für Screenshots in der README — solltest du besser nicht aus dem vollen Master-Branch heraus erstellen und danach leeren, sondern ihn gleich leer anlegen. Das geht so:
 
 ```
 git checkout --orphan assets
