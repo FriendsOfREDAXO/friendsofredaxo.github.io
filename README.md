@@ -44,6 +44,7 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 * Nutzt __Github-Wikis__ und die README.md, um ausführliche Infos zum Projekt anzubringen.
 * Nutzt __Screenshots__ um zu zeigen, wie ein Projekt aussieht. _(Best Practice: Einen Branch `assets` für Screenshots anlegen und in der README des Master-Branches verlinken, siehe unten bei [Anleitungen](#einen-leeren-assets-branch-anlegen))_
 * Nutzt das __[Dummy-Addon](https://github.com/FriendsOfREDAXO/dummy)__ um zu sehen, wie man Addons für REDAXO 5 baut. Es ist sehr hilfreich.
+* Achtet darauf, die __MIT-Lizenz__ zu verwenden und auf Wunsch um Bier, Burger oder Kaffee zu ergänzen. _(Häh? Siehe [Diskussion](https://github.com/FriendsOfREDAXO/Info/issues/15) dazu!)_
 
 ## Anleitungen
 
