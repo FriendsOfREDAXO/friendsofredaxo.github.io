@@ -1,5 +1,9 @@
 <header class="site-header" role="banner">
 
-  <img class="trex" src="https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_128x128_transparent.png" alt="Friends Of REDAXO">
+    <div class="trex">
+        {% if page.layout != 'home' %}<a class="trex__link" href="{% link index.html %}">{% endif %}
+            <img class="trex__image" src="https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_128x128_transparent.png" alt="Friends Of REDAXO">
+        {% if page.layout != 'home' %}</a>{% endif %}
+    </div>
 
 </header>
