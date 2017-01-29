@@ -40,6 +40,11 @@ body {
 
 .stats__text {
   font-size: 2em;
+  line-height: 1.2;
+}
+
+.stats__text-item {
+  white-space: nowrap;
 }
 
 /* highscore */
