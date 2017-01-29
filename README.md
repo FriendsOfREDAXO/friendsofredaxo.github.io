@@ -90,3 +90,5 @@ Einen neuen Assets-Branch — z. B. für Screenshots in der README — solltest 
 git checkout --orphan assets
 git rm -rf .
 ```
+
+Wir verwenden einen separaten Assets-Branch damit spätere Releases nicht unnötige Dateien enthalten.
