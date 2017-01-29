@@ -1,5 +1,7 @@
 language: ruby
 
-rvm: 2.1.7
+rvm: 2.3.3
 
 script: "bundle exec jekyll build"
+
+sudo: false # route your build to the container-based infrastructure for a faster build
