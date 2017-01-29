@@ -1,0 +1,76 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html {
+  height: auto;
+  min-height: 100%;
+  max-height: none;
+  background-color: #f5f6f6;
+  background-image: -webkit-linear-gradient(4deg, #d6dadd 35%, #f5f6f6 65%);
+  background-image: linear-gradient(86deg, #d6dadd 35%, #f5f6f6 65%);
+}
+
+/* _base.scss (minima theme) overrides */
+
+body {
+  background-color: transparent;
+}
+
+/* _layout.scss (minima theme) overrides */
+
+.site-header {
+  border: 0;
+  min-height: auto;
+  padding: 30px 0 0 0;
+}
+
+.site-nav {
+  display: none; // hide mobile nav
+}
+
+/* stats */
+
+.stats {
+  text-align: center;
+  margin-bottom: 2em;
+  margin-top: -20px;
+}
+
+.stats__text {
+  font-size: 2em;
+}
+
+/* highscore */
+
+.highscore {
+  list-style: none;
+  margin: 0;
+  font-size: 1.3em;
+}
+
+.highscore__item {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 0.5em 2em;
+  margin-bottom: 1px;
+}
+
+.highscore__item-link {
+  text-decoration: none !important;
+}
+
+.highscore__item-stars {
+  color: rgba(0, 0, 0, 0.4);
+  margin-left: 0.3em;
+  float: right;
+}
+
+/* trex */
+
+.trex {
+  display: block;
+  max-width: 64px;
+  height: auto;
+  margin: 0 auto;
+}
