@@ -5,7 +5,7 @@
 {% endfor %}
 
 <div class="stats">
-    <p class="stats__text"><strong>{{ site.github.organization_members | size }}</strong> Mitglieder, <strong>{{ site.github.public_repositories | size }}</strong> Projekte, <strong>{{ stars_count }}</strong> Sterne</p>
+    <p class="stats__text"><strong>{{ site.github.organization_members | size }}</strong>&nbsp;Mitglieder, <strong>{{ site.github.public_repositories | size }}</strong>&nbsp;Projekte, <strong>{{ stars_count }}</strong>&nbsp;Sterne</p>
 </div>
 
 <ol class="highscore">
