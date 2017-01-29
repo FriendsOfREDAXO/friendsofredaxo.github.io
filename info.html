@@ -1,0 +1,9 @@
+---
+layout: page
+title: Informationen zum Projekt
+permalink: /info
+---
+
+{% capture my_include %}{% include_relative README.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
