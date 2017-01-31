@@ -58,7 +58,8 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 
 ### Ein Release eines Addons erstellen
 
-* Versionsnummern (sofern vorhanden, z. B. bei Addons) sollten erst unmittelbar vorm Release hochgesetzt werden. Damit bekommen auch diejenigen, die vorher eine Develop-Version aus dem Repo getestet haben, das finale Release über den Installer.
+* Versionsnummern (sofern vorhanden, z. B. bei Addons) sollten erst _unmittelbar vorm Release_ hochgesetzt werden. Damit bekommen auch diejenigen, die vorher eine Develop-Version aus dem Repo getestet haben, das finale Release über den Installer.
+* Versionsnummern sollten sich nach dem verbreiteten Semver ([Semantic Versioning](http://semver.org/lang/de/)) richten: die hintere Zahl wird erhöht, wenn ausschließlich Bugfixes enthalten sind. Die mittlere Zahl, wenn neue Features hinzugekommen sind. Die vordere Zahl wird erhöht, wenn mit dem Release bereits bestehender Code inkompatibel wird (»Breaking changes«) — übrigens auch dann, wenn z. B. lediglich ein Icon aus einer Iconsammlung entfernt wurde!
 * Releases sollten am besten erst vollständig bei Github erstellt, danach in gleicher Form auf redaxo.org veröffentlicht werden.
 * Es gibt Bonuspunkte für sinnvolle Releasebeschreibungen mit [Links auf zugehörige Issues und Pull Requests](https://guides.github.com/features/issues/#notifications)! 💯
 
