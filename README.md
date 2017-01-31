@@ -91,4 +91,4 @@ git checkout --orphan assets
 git rm -rf .
 ```
 
-Wir verwenden einen separaten Assets-Branch damit spätere Releases nicht unnötige Dateien enthalten.
+Wir verwenden einen separaten Assets-Branch, damit spätere Releases keine unnötigen Dateien enthalten.
