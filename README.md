@@ -94,3 +94,11 @@ git rm -rf .
 
 Wir verwenden einen separaten Assets-Branch, damit spätere Releases keine unnötigen Dateien enthalten.
  
+### Die Website [friendsofredaxo.github.io](https://friendsofredaxo.github.io) bearbeiten
+
+Die Website basiert auf [GitHub-Pages](https://help.github.com/articles/what-is-github-pages/). Es ist eine statische Website, die von GitHub selbst generiert wird, und zwar immer dann, wenn an einer Datei innerhalb des Repos Änderungen vorgenommen wurden.
+
+Einfache Anpassungen kannst du direkt an den Dateien im Repo vornehmen. Etwa um Texte zu ergänzen oder zu korrigieren. Wenn es komplexere Anpassungen sind, zum Beispiel an den Templates oder Stylesheets, ist es sinnvoll, die Website lokal auf deinem Gerät einzurichten und die Änderungen dort anzubringen. Denn dann siehst du, ob die Website danach noch fehlerfrei _gebaut_ (»Build«) wird.  
+Eine Anleitung, die du die Website lokal einrichtest, findest du in der [SETUP.md](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io/blob/master/SETUP.md).
+
+Viele weitere Infos zum Thema findest du hier: [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/).
