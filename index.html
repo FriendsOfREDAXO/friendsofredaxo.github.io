@@ -24,8 +24,31 @@ title: Friends Of REDAXO
 
 <ol class="highscore">
     {% for repository in repos %}
+
+    {% assign member = false %}
+    {% if site.data.projects[repository.name].lead != '' %}
+        {% assign memberResult = site.github.organization_members | where: 'login', site.data.projects[repository.name].lead %}
+        {% assign member = memberResult.first %}
+    {% endif %}
+    
     <li class="highscore__item">
-        <a class="highscore__item-link" href="{{ repository.html_url }}">{{ repository.name }}</a> <span class="highscore__item-stars">{{ repository.stargazers_count }}</span>
+        <div class="highscore__item-col highscore__item-col--1">
+            <div class="highscore__avatar">
+                {% if member %}
+                <a class="highscore__avatar-link" href="{{ member.html_url }}" title="{{ member.login }}">
+                    <img class="highscore__avatar-img" src="{{ member.avatar_url }}" alt="{{ member.login }}">
+                </a>
+                {% endif %}
+            </div>
+        </div>
+        <div class="highscore__item-col highscore__item-col--2">
+            <a class="highscore__item-link" href="{{ repository.html_url }}">{{ repository.name }}</a>
+        </div>
+        <div class="highscore__item-col highscore__item-col--3">
+            <span class="highscore__item-stars">{{ repository.stargazers_count }}</span>   
+        </div>
     </li>
     {% endfor %}
 </ol>
+
+<small class="timestamp">Stand: {{ site.time | date: "%d.%m.%Y, %H:%M" }} Uhr</small>
