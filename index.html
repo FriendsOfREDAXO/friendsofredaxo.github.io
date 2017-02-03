@@ -35,7 +35,7 @@ title: Friends Of REDAXO
         <div class="highscore__item-col highscore__item-col--1">
             <div class="highscore__avatar">
                 {% if member %}
-                <a class="highscore__avatar-link" href="{{ member.html_url }}" title="{{ member.login }}">
+                <a class="highscore__avatar-link" href="{{ member.html_url }}" title="Lead: {{ member.login }}">
                     <img class="highscore__avatar-img" src="{{ member.avatar_url }}" alt="{{ member.login }}">
                 </a>
                 {% endif %}
