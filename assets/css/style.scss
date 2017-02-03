@@ -83,6 +83,7 @@ body {
   background: rgba(255, 255, 255, 0.5);
   margin-bottom: 1px;
   display: flex;
+  align-items: center;
   width: 100%;
   box-sizing: border-box;
 }
@@ -104,7 +105,6 @@ body {
 
 .highscore__item-stars {
   color: rgba(0, 0, 0, 0.4);
-  padding-left: 0.5em;
 }
 
 .highscore__avatar {
@@ -154,4 +154,15 @@ body {
   display: block;
   text-align: center;
   color: rgba(0, 0, 0, 0.5);
+}
+
+/* octicon icon */
+
+.octicon-star {
+  display: inline-block;
+  vertical-align: middle;
+  width: 14px;
+  height: 16px;
+  fill: rgba(0, 0, 0, 0.6);
+  transform: translateY(-10%);
 }

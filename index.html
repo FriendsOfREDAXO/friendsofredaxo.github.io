@@ -45,7 +45,8 @@ title: Friends Of REDAXO
             <a class="highscore__item-link" href="{{ repository.html_url }}">{{ repository.name }}</a>
         </div>
         <div class="highscore__item-col highscore__item-col--3">
-            <span class="highscore__item-stars">{{ repository.stargazers_count }}</span>   
+            <span class="highscore__item-stars">{{ repository.stargazers_count }}</span>
+            <svg aria-hidden="true" class="octicon octicon-star" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
         </div>
     </li>
     {% endfor %}
