@@ -1,3 +1,4 @@
 theme: minima
 repository: friendsofredaxo/friendsofredaxo.github.io 
 gems: ['jekyll-github-metadata', 'jekyll-seo-tag']
+timezone: Europe/Berlin
