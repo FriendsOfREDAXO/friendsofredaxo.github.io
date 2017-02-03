@@ -18,6 +18,12 @@ body {
   background-color: transparent;
 }
 
+a {
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 /* _layout.scss (minima theme) overrides */
 
 .site-header {
@@ -114,14 +120,16 @@ body {
   }
 }
 
-.highscore__item-link {
+.highscore__item-link,
+.highscore__item-link:visited {
   display: block;
   padding: 0.6em 0.5em;
   text-decoration: none !important;
   word-break: break-all;
 }
 
-.highscore__stars-link {
+.highscore__stars-link,
+.highscore__stars-link:visited {
   display: block;
   padding: 0.6em 0.5em;
   text-decoration: none !important;
