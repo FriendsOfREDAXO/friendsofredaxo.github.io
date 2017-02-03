@@ -36,8 +36,10 @@ title: Friends Of REDAXO
             <div class="highscore__avatar">
                 {% if member %}
                 <a class="highscore__avatar-link" href="{{ member.html_url }}" title="Lead: {{ member.login }}">
-                    <img class="highscore__avatar-img" src="{{ member.avatar_url }}" alt="{{ member.login }}">
+                    <img class="highscore__avatar-img" src="{{ member.avatar_url }}&s=100" alt="{{ member.login }}">
                 </a>
+                {% else %}
+                    <img class="highscore__avatar-img" src="https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_128x128_transparent.png" alt="Friends Of REDAXO">
                 {% endif %}
             </div>
         </div>
@@ -45,8 +47,10 @@ title: Friends Of REDAXO
             <a class="highscore__item-link" href="{{ repository.html_url }}">{{ repository.name }}</a>
         </div>
         <div class="highscore__item-col highscore__item-col--3">
-            <span class="highscore__item-stars">{{ repository.stargazers_count }}</span>
-            <svg aria-hidden="true" class="octicon octicon-star" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+            <a class="highscore__stars-link" href="{{ repository.html_url }}">
+                <span class="highscore__item-stars">{{ repository.stargazers_count }}</span>
+                <svg aria-hidden="true" class="octicon octicon-star" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+            </a>
         </div>
     </li>
     {% endfor %}
