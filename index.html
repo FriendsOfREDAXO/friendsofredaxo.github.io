@@ -25,26 +25,32 @@ title: Friends Of REDAXO
 <ol class="highscore">
     {% for repository in repos %}
 
-    {% assign member = false %}
     {% if site.data.projects[repository.name].lead != '' %}
         {% assign memberResult = site.github.organization_members | where: 'login', site.data.projects[repository.name].lead %}
         {% assign member = memberResult.first %}
+
+        {% assign user_url = member.html_url %}
+        {% assign user_name = member.login %}
+        {% assign user_avatar = member.avatar_url + '&s=100' %}
+    {% else %}
+        {% assign user_url = site.github.owner_url %}
+        {% assign user_name = site.github.owner_name %}
+        {% assign user_avatar = site.github.owner_gravatar_url %}
     {% endif %}
     
     <li class="highscore__item">
         <div class="highscore__item-col highscore__item-col--1">
             <div class="highscore__avatar">
-                {% if member %}
-                <a class="highscore__avatar-link" href="{{ member.html_url }}" title="Lead: {{ member.login }}">
-                    <img class="highscore__avatar-img" src="{{ member.avatar_url }}&s=100" alt="{{ member.login }}">
+                <a class="highscore__avatar-link" href="{{ user_url }}" title="Lead: {{ user_name }}">
+                    <img class="highscore__avatar-img" src="{{ user_avatar }}" alt="{{ user_name }}">
                 </a>
-                {% else %}
-                    <img class="highscore__avatar-img" src="https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_128x128_transparent.png" alt="Friends Of REDAXO">
-                {% endif %}
             </div>
         </div>
         <div class="highscore__item-col highscore__item-col--2">
-            <a class="highscore__item-link" href="{{ repository.html_url }}">{{ repository.name }}</a>
+            <a class="highscore__item-link" href="{{ repository.html_url }}">
+                <span class="highscore__item-name">{{ repository.name }}</span>
+                <span class="highscore__item-description">{{ repository.description }}</span>
+            </a>
         </div>
         <div class="highscore__item-col highscore__item-col--3">
             <a class="highscore__stars-link" href="{{ repository.html_url }}">
