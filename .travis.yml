@@ -1,7 +1,5 @@
 language: ruby
-
 rvm: 2.3.3
-
-script: JEKYLL_GITHUB_TOKEN=$JEKYLL_GITHUB_TOKEN bundle exec jekyll build
-
-sudo: false # route your build to the container-based infrastructure for a faster build
+cache: bundler
+script: "JEKYLL_GITHUB_TOKEN=$JEKYLL_GITHUB_TOKEN bundle exec jekyll build"
+sudo: false
