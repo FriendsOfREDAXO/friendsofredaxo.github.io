@@ -1,5 +1,5 @@
 language: ruby
 rvm: 2.3.3
 cache: bundler
-script: "JEKYLL_GITHUB_TOKEN=$JEKYLL_GITHUB_TOKEN bundle exec jekyll build"
+script: JEKYLL_GITHUB_TOKEN=${JEKYLL_GITHUB_TOKEN} bundle exec jekyll build
 sudo: false
