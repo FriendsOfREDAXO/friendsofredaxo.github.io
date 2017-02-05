@@ -6,6 +6,9 @@ cache: bundler
 
 sudo: false
 
+notifications:
+  email: false
+
 before_script: "chmod +x ./build.sh"
 
 script: "./build.sh"
