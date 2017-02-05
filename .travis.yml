@@ -4,11 +4,6 @@ rvm: 2.3.3
 
 cache: bundler
 
-env:
-  global:
-    # JEKYLL_GITHUB_TOKEN
-    - secure: "c4Plm87GiYQoS+PQ1Kc12iR4FYLTGybe2K/kg5Sn1tLjp/soYCNea6vZT/iVFp2GMbUzd+Uru1nLUcRktxO+QMW7Rh5KpylLMGSGZ0uoHIfH53uU6niH2xWG9nGP4s3lZhsCELbjTLrn9Nqp0o3Zz6F/WpuJQ2+IV8UpkBMQl885ateUzwufUt+EGIMka2pcQQr4FOb5sKY0g8/h+61bHEC2LYf63O4yUiwi+yU6vcJp/nPVEScCELk+T9Sfs1H6HAIyO1nDiCf8Bpmp95fCUgv2IUEalZ5bxSuwOTTBY1DzoQPA3jnKDAZTXbuXqG+vhsdg5YKmQk4B0klRUPF3qc1p0Irg0j1KmBHXU3Xh2/bkmJ82OPjBX1wU53RT4ZsQQVCI/EsvBEBNt9kVyGf3N/TflMin3zKpvoJo0LraJxT8+ElicuhaiZIbrk0Rzuv0fAyestjt/Ev1UQ16KxHOnPDccPlw+KozQwFGM4yolF7YJgUhfIfgIyIeukGK4lg2YRogFfuQnk2l8ZFV1t1svmf6n1tY6cQV7buK8I+C0d3QBXHt3gljrd/Yt2XNjwSB/SNxrNrgDg8UMXgyGgM1pe7fWmOPIriKqQhK04LUPIffjbzWGyEFNCQ8Kl46LCBi6yETwPPlRMQGFHr9hhvSIXjtFZZy0A3WkU/+o/o3igU="
-
 sudo: false
 
 before_script: "chmod +x ./build.sh"
