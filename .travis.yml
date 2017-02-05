@@ -11,8 +11,4 @@ env:
 
 sudo: false
 
-before_script:
-  - echo %{JEKYLL_GITHUB_TOKEN}
-  - echo %{$GH_TOKEN}
-
-script: bundle exec jekyll build
+script: "JEKYLL_GITHUB_TOKEN=$GH_TOKEN bundle exec jekyll build"
