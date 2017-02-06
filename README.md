@@ -1,3 +1,5 @@
+![Screenshot](https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_1600x600.png)
+
 # Informationen zum Projekt
 
 Dies ist der Ort für gemeinsame [REDAXO](http://www.redaxo.org)-Entwicklung. Alles, was hier entwickelt wird, ist Teil der Community und damit Gemeingut.
