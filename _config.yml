@@ -9,7 +9,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_1600x600.png
+      image: https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_1200x600.png
 
 # SEO
 # https://github.com/jekyll/jekyll-seo-tag
