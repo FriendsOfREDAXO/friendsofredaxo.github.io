@@ -14,7 +14,7 @@ defaults:
 # SEO
 # https://github.com/jekyll/jekyll-seo-tag
 title: Friends Of REDAXO
-description: Dies ist der Ort für gemeinsame REDAXO-Entwicklung. Alles, was hier entwickelt wird, ist teil der Community und damit Gemeingut.
+description: Dies ist der Ort für gemeinsame REDAXO-Entwicklung. Alles, was hier entwickelt wird, ist Teil der Community und damit Gemeingut.
 logo: https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_550x550.png
 twitter:
   username: redaxo
