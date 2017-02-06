@@ -2,3 +2,24 @@ theme: minima
 repository: friendsofredaxo/friendsofredaxo.github.io 
 gems: ['jekyll-github-metadata', 'jekyll-seo-tag']
 timezone: Europe/Berlin
+
+# defaults
+# https://jekyllrb.com/docs/configuration/#front-matter-defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_1600x600.png
+
+# SEO
+# https://github.com/jekyll/jekyll-seo-tag
+title: Friends Of REDAXO
+description: Dies ist der Ort für gemeinsame REDAXO-Entwicklung. Alles, was hier entwickelt wird, ist teil der Community und damit Gemeingut.
+logo: https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_550x550.png
+twitter:
+  username: redaxo
+social:
+  name: Friends Of REDAXO
+  links:
+    - https://github.com/friendsofredaxo
+    - https://twitter.com/redaxo
