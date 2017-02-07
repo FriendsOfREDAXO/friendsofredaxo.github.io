@@ -15,4 +15,6 @@ if [[ $TRAVIS_EVENT_TYPE == "cron" ]] ; then
     # redirect any output to /dev/null to hide any sensitive credential data that might otherwise be exposed
     git push --force --quiet "https://${GITHUB_TOKEN}@github.com/FriendsOfREDAXO/friendsofredaxo.github.io.git" HEAD^:master  > /dev/null 2>&1
     git push         --quiet "https://${GITHUB_TOKEN}@github.com/FriendsOfREDAXO/friendsofredaxo.github.io.git" master        > /dev/null 2>&1
+
+    echo "deployed FTW!"
 fi
