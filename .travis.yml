@@ -8,7 +8,7 @@ sudo: false
 
 env:
   global:
-  - secure: sI+V7aDQuIxritVCR8okVzQ4N2NZr5MuXO31IcIZEnVmnEnfc72pG5HPfOt6jwAV8mja6lfJD4W8/VAoGxdsvVrdPTB4IITKYNiSwlw/heIsT4lkfof7zC33+kzFw2P1KKVBKEiEu12H6uPpBtT1oGWoewoPz2OKrs+IdgdcOfGWRBpZ1CC16TP8Q4WcvubqIYNbfbnijLmpv5G+NXOxTqTUae//q5WehEeIUfAGCLfxXJ9pZZFqVffhofc++5/N57zIVbQmcnplcBsURs7/K1EoTGAApekt/BiMhnoIGf2YhKaAwZWhkNZ8XjvtgMlACxrMU5jFT5B517p99BBJEcirxPQ0ZAU82GPGLUQrh9+VfGEQ8BA2txiePm0mP1iHhu5W05E0uWqfzrKm+YZkA94IGQfns3qLWM7JYrxkmKXL3UArL+o71zLdct9uYwtuHBjAmERvmvvH36zPINfFLC4Gfw7ayX5+mhAy2ooyS/i0NxrSiEILXDbOu9hmao0UfW1WlOoAitqv3yDfqcZp981VSHg+5VR4A50tQ7Qra1jHdLMR9GYl7KAznPm6zflIplomX+cEwi9XSjE19DwbEUwdQz0JlR79JAgDkNJA+gcQtizZF8GDGeXNtBsWTz2RrCwc2vYp7iwGkDMeHAuHGg6UhLeNz1RaLcAGE9vKt5Q=
+    secure: OgbRu01TOJzgEXfwfM2J9aWfq3iVXiw759rSJpsZEFmdWNCzCGXhTpqUytX8xNeCcihB54gO2qxzWiBhhcWyNnMTY634Lt/quyVsTK/Jy6GLjkulMh9MHButjPZUZtBhWgaG8/ix0i1xf5fOrq7XmuMp3Xd+40Buc8OTgzuRlChSiLiIHjNmt6PssDydfbnRzyRdC47nhAhVG4bU4KF7hqH0QLoJPxxr+lHYjNNlRP1Qs2kW/Hdk3926QlF8ELcaArhbMhfiHehNfW5mKVMXoVLMeS1+wDL/bjP29X11Y60AX30Z/P/oDix4+MsETE8lgNcsf4XKmlMGwPoltgAlRLj5hNqBYvGSBF7ntcU6clZFH+Mkov1nWS7BtdTc93BzzW1Gdok+Q6IM5mIZcwuPdmw1aHGNDqmKJD2dveShLHsJeDZG4J2YO0hrNohmnXvoe6pa/vR7nabiGDrJLvtfzS+fSSvhC35SBQLr78KQ9CVGQbDsdluC9boSEE7Qkz4tAuestDIXcNmpRG7flIX12AG0qTGk1Bk2kfHLPQj3BrySrFqqhq7K5o7QEAAHAgUE7VZYAe6Ev6qtSfyxioJomRrEwTUIawKqiPvTVtPtEp1R1I2G+RBgO4xbmRKH6mUqhRf++Jn7EBeDK/pfrXBFzr53876mQyvzp1YtXohO4o4=
 
 notifications:
   email: false
@@ -18,9 +18,9 @@ branches:
   - master
 
 before_script:
-  - chmod +x ./build.sh
-  - chmod +x ./deploy.sh
+- chmod +x ./build.sh
+- chmod +x ./deploy.sh
 
-script: ./build.sh
+script: "./build.sh"
 
-after_success: ./deploy.sh
+after_success: "./deploy.sh"
