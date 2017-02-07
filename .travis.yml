@@ -6,9 +6,13 @@ cache: bundler
 
 sudo: false
 
+env:
+  global:
+    secure: nHGm3q4aTqTuJYJAzu5C3mF3SnzPfXg8fFN1RgQi/IvddjnJ6VDfsbPwLETVICyiB1OXwoEm7OEJNciYIO2cCSL/ha1ZrMwzMfV5mL+ZMPJhJWrt+MQeyJcpVSsQZAzX+y5v49bpSpRw0Sh9swTQy0fk02PAzRIpV5uWD0UYTvi1ZPg+5Xcwap73bST1xEzNkC7hGg/l5t9qBsh42H0nmakerFn1k9NIEtwnUtusOMuNef1cLFBcVPeGiX3oi5uuUwFEAFTHWmhJBVCbwDPl0pDB+Sa/VIjclqnL5+NusuHHA1tSEM2XHwqQ7o8joFOHp0eJgF8NYAt/p+AXDnWlDFbH42MwC5qrBj0RwXAor/zOKQ0D9FzhWO9QoKv6aVGV7flnGl3GXhhUzgRsdGJiOlsCn+8WaU9Y8SR5KFPS9wHvL+vQTGQVetG8BRT3JnWRW4HccBwaUX2fkGOSHRwTTXx/jR+LfFnxyrQ4c/xm+pJXAyqCQ4SNBlN7yylEjvrsuZUqpcPWjn+4T/Yr4QHNhWGZPAxTimmZoJprAP+oy/3x+RlTP3/1+INymPvrK/veEQSrIjavi5d+dDwXEY4TKg1k+3hGV3cJMrqW3UpYkqcK5e4h0GsZgpaW1gXPgLInwgndiOCOyMbcFefx2L363wiLtexz/12wG6ebJXuo2DE=
+
 notifications:
   email: false
 
-before_script: "chmod +x ./build.sh"
+before_script: chmod +x ./build.sh
 
-script: "./build.sh"
+script: ./build.sh
