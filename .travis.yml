@@ -18,9 +18,9 @@ branches:
   - master
 
 before_script:
-- chmod +x ./build.sh
-- chmod +x ./deploy.sh
+- chmod +x ./scripts/build.sh
+- chmod +x ./scripts/deploy.sh
 
-script: "./build.sh"
+script: "./scripts/build.sh"
 
-after_success: "./deploy.sh"
+after_success: "./scripts/deploy.sh"
