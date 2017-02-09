@@ -25,7 +25,7 @@ title: Friends Of REDAXO
 <ol class="highscore">
     {% for repository in repos %}
 
-    {% if site.data.projects[repository.name].lead != '' %}
+    {% if site.data.projects[repository.name].lead %}
         {% assign memberResult = site.github.organization_members | where: 'login', site.data.projects[repository.name].lead %}
         {% assign member = memberResult.first %}
 
