@@ -28,7 +28,9 @@ title: Friends Of REDAXO
     {% if site.data.projects[repository.name].lead %}
         {% assign memberResult = site.github.organization_members | where: 'login', site.data.projects[repository.name].lead %}
         {% assign member = memberResult.first %}
+    {% endif %}
 
+    {% if member %}
         {% assign user_url = member.html_url %}
         {% assign user_name = member.login %}
         {% assign user_avatar = member.avatar_url + '&s=100' %}
