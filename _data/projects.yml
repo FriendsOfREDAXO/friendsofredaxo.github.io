@@ -33,7 +33,7 @@
 'quick_navigation':             {'lead': 'skerbis'}
 'redactor2':                    {'lead': 'phoebusryan'}
 'redaxo-mit-bimmelbam':         {'lead': 'schuer'}
-'search_it':                    {'lead': 'tyrant88'}
+'search_it':                    {'lead': 'tyrant88', 'transferred_at': '2017-02-05'}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'treestructure':                {'lead': 'tgoellner'}
@@ -44,6 +44,6 @@
 'webdav':                       {'lead': 'staabm'}
 'xoutputfilter':                {'lead': 'aeberhard'}
 'yform_geo_osm':                {'lead': 'NGWNGW'}
-'yform_usability':              {'lead': 'lexplatt'}
+'yform_usability':              {'lead': 'lexplatt', 'transferred_at': '2017-02-09'}
 'yform_standalone-validator':   {'lead': 'NGWNGW'}
 'yrewrite_one-level-no-suffix': {'lead': 'schuer'}
