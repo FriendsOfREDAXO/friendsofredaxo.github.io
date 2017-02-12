@@ -21,6 +21,7 @@
 'markitup':                     {'lead': 'phoebusryan'}
 'mblock':                       {'lead': 'joachimdoerr'}
 'mcalendar':                    {'lead': 'joachimdoerr'}
+'media_manager_autorewrite':    {'lead': 'Hirbod'}
 'media_manager_srcset':         {'lead': 'tgoellner'}
 'mform':                        {'lead': 'joachimdoerr'}
 'minify':                       {'lead': 'phoebusryan'}
