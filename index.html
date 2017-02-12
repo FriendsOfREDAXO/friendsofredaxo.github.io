@@ -31,6 +31,17 @@ title: Friends Of REDAXO
         {% assign member = memberResult.first %}
     {% endif %}
 
+    {% assign isnew = false %}
+    {% capture created %}{{ repository.created_at | date: '%s'}}{% endcapture %}
+    {% capture transferred %}{{ site.data.projects[repository.name].transferred_at | date: '%s'}}{% endcapture %}
+    {% capture duedate %}{{ 'now' | date: '%s' | minus: '1209600' }}{% endcapture %}
+
+    {% if transferred and transferred > duedate %}
+        {% assign isnew = true %}
+    {% elsif created and created > duedate %}
+        {% assign isnew = true %}
+    {% endif %}
+
     {% if member %}
         {% assign user_url = member.html_url %}
         {% assign user_name = member.login %}
@@ -51,7 +62,12 @@ title: Friends Of REDAXO
         </div>
         <div class="highscore__item-col highscore__item-col--2">
             <a class="highscore__item-link" href="{{ repository.html_url }}">
-                <span class="highscore__item-name">{{ repository.name }}</span>
+                <span class="highscore__item-name">
+                    {{ repository.name }}
+                    {% if isnew %}
+                    <span class="highscore__item-marker">Neu</span>
+                    {% endif %}
+                </span>
                 <span class="highscore__item-description">{{ repository.description }}</span>
             </a>
         </div>
