@@ -260,3 +260,44 @@ a.trex__link {
   fill: currentColor;
   transform: translateY(-10%);
 }
+
+/* footer */
+
+.site-footer {
+  border-top: 0;
+  text-align: center;
+  padding-top: 0;
+}
+
+a.github-badge {
+  display: inline-block;
+  vertical-align: middle;
+  color: $grey-color;
+  font-size: 14px;
+
+  &:hover,
+  &:focus {
+    color: $brand-color;
+    text-decoration: none;
+  }
+
+  .icon--github {
+    > svg {
+      width: 40px;
+      height: 40px;
+
+      path {
+        fill: currentColor;
+      }
+    }
+  }
+
+  .username {
+    display: block;
+    padding-top: 5px;
+
+    span {
+      padding: 0 1px;
+    }
+  }
+}
