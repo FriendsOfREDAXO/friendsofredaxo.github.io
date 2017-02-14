@@ -1,6 +1,10 @@
 ---
 ---
 
+$brand-color: #178dd1; // TREX blue, litte darker
+$brand-color-2: #2b354b; // TREX dark blue
+$text-color: $brand-color-2;
+
 @import "{{ site.theme }}";
 
 html {
