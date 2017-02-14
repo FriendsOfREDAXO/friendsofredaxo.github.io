@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+    <script src="{{ '/assets/js/anchor.min.js' | relative_url }}"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function(event) {
+            anchors.options.placement = 'left';
+            anchors.add('.post h1, .post h2, .post h3, .post h4');
+        });
+    </script>
+  
+  </body>
+
+</html>
