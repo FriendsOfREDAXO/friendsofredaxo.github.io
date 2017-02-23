@@ -4,20 +4,12 @@ Um die Website lokal einzurichten, sind folgende Schritte notwendig:
 
 1. __Ruby >= 2.1__ installieren, falls noch nicht vorhanden
 
-    ⚠️ Hinweis für Mac-User: macOS Sierra bringt leider nur Ruby 2.0 mit. Du musst dir deshalb manuell ein neueres installieren. Am besten geht das mit Tools wie [Rbenv](http://rbenv.org) oder [RVM](https://rvm.io).  
+    ⚠️ Hinweis für Mac-User: macOS Sierra bringt leider nur Ruby 2.0 mit. Du musst dir deshalb manuell ein neueres installieren. Am besten geht das mit Tools wie [Rbenv](http://rbenv.org) oder [RVM](https://rvm.io) (siehe [Kurzanleitung](#ruby-installieren-oder-aktualisieren) unten).
     
     So kannst du prüfen, welche Ruby-Version bei dir gerade läuft:
     
         $ ruby --version
         
-    **Kurzanleitung** Ruby Aktualisierung auf Mac
-
-    Terminal öffnen und folgenden Befehl eingeben
-    
-        $ \curl -sSL https://get.rvm.io | bash -s stable --ruby
-    
-    Wenn die Installation durch ist, ein neues Terminalfenster öffnen und den Befehl `rvm list known` absetzen. Das zeigt eine Liste aller Ruby Versionen. Ist die Version 2.4 nicht dabei, kann man mit `rvm install ruby-2.4.0` diese installieren. Mit `ruby -v` erfährt man die aktuell genutzte Version. Sollte es eine ältere Version als 2.4 sein, kann man mit `rvm use ruby-2.4.0` das anpassen.
-    
     
 2. __Bundler__ installieren, falls noch nicht vorhanden
 
@@ -28,6 +20,16 @@ Um die Website lokal einzurichten, sind folgende Schritte notwendig:
         $ bundle exec jekyll serve
 
     Danach ist die Website unter `http://localhost:4000` verfügbar.
+    
+## Ruby installieren oder aktualisieren
+
+- **Ruby Aktualisierung auf dem Mac**
+
+    Terminal öffnen und folgenden Befehl eingeben
+    
+        $ \curl -sSL https://get.rvm.io | bash -s stable --ruby
+    
+    Wenn die Installation durch ist, ein neues Terminalfenster öffnen und den Befehl `rvm list known` absetzen. Das zeigt eine Liste aller Ruby Versionen. Ist die Version 2.4 nicht dabei, kann man mit `rvm install ruby-2.4.0` diese installieren. Mit `ruby -v` erfährt man die aktuell genutzte Version. Sollte es eine ältere Version als 2.4 sein, kann man mit `rvm use ruby-2.4.0` das anpassen.
 
 ## Anmerkungen
 
