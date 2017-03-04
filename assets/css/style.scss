@@ -335,3 +335,16 @@ a.github-badge {
     }
   }
 }
+
+/* Küken
+   https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io/issues/57
+ */
+
+.kueken {
+  display: inline-block;
+  transition: 150ms ease-out;
+
+  &:hover {
+    transform: scale3d(1.4, 1.4, 1) rotate3d(1, 1, 1, 7deg);
+  }
+}
