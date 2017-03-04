@@ -67,7 +67,7 @@ title: Friends Of REDAXO
                     {% if isnew %}<span class="highscore__item-marker">Neu</span>{% endif %}
                 </span>
                 <span class="highscore__item-description">
-                    {{ repository.description }}
+                    {{ repository.description | replace: '🐣', '<span class="kueken" title="Projekt ist noch nicht final!">🐣</span>' }}
                 </span>
             </a>
         </div>
