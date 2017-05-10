@@ -36,6 +36,7 @@
 'pdfout':                       {'lead': 'skerbis'}
 'photoswipe':                   {'lead': 'gseilheimer'}
 'piwik':                        {'lead': 'gseilheimer'}
+'poll':                         {'lead': 'dergel'}
 'quick_navigation':             {'lead': 'skerbis'}
 'redactor2':                    {'lead': 'phoebusryan'}
 'redaxo-mit-bimmelbam':         {'lead': 'schuer'}
