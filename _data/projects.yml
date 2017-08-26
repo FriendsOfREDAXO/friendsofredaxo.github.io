@@ -8,6 +8,7 @@
 'aw_navigation':                {'lead': 'dtpop'}
 'bloecks':                      {'lead': 'tgoellner'}
 'blog':                         {'lead': 'staabm'}
+'bootstrap':                    {'lead': 'olien'}
 'cache_warmup':                 {'lead': 'schuer'}
 'demo_addon':                   {'lead': 'aeberhard'}
 'demo_base':                    {'lead': 'polarpixel'}
