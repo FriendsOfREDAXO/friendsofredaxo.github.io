@@ -34,7 +34,7 @@ title: Friends Of REDAXO
     {% assign isnew = false %}
     {% capture created %} {{ repository.created_at | date: '%s'}} {% endcapture %}
     {% capture transferred %} {{ site.data.projects[repository.name].transferred_at | date: '%s'}} {% endcapture %}
-    {% capture duedate %} {{ 'now' | date: '%s' | minus: '2592000' }} {% endcapture %}
+    {% capture duedate %} {{ 'now' | date: '%s' | minus: '5184000' }} {% endcapture %}
 
     {% if transferred and transferred > duedate %}
         {% assign isnew = true %}
