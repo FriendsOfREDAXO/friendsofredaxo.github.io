@@ -25,7 +25,6 @@
 'gloebals':                     {'lead': 'tgoellner'}
 'hyphenator':                   {'lead': 'phoebusryan'}
 'iconpicker':                   {'lead': 'polarpixel'}
-'jquery_file_upload':           {'lead': 'IngoWinter'}
 'lightgallery':                 {'lead': 'gseilheimer'}
 'maintenance':                  {'lead': 'skerbis'}
 'markitup':                     {'lead': 'phoebusryan'}
@@ -58,6 +57,7 @@
 'twoeg':                        {'lead': 'tgoellner'}
 'ui_tools':                     {'lead': 'elricco'}
 'undo':                         {'lead': 'Hirbod'}
+'uploader':                     {'lead': 'IngoWinter'}
 'urlreplacer':                  {'lead': 'joachimdoerr'}
 'useragent':                    {'lead': 'phoebusryan'}
 'video':                        {'lead': 'skerbis'}
