@@ -67,5 +67,5 @@
 'yform_geo_osm':                {'lead': 'NGWNGW'}
 'yform_usability':              {'lead': 'lexplatt', 'transferred_at': '2017-02-09'}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
-'yrewrite_one-level-no-suffix': {'lead': 'schuer'}
+'yrewrite_one_level':           {'lead': 'schuer'}
 'zip_install':                  {'lead': 'Hirbod'}
