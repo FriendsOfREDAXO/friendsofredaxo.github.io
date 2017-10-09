@@ -52,11 +52,12 @@ Immer gerne! Am besten als [Issue](https://github.com/FriendsOfREDAXO/Info/issue
 
 ### Ein Addon zu den Friends Of REDAXO übertragen
 
-1. Benutze in den Repository-Settings die Option "Transfer ownership", um dein Repository an Friends Of REDAXO zu übertragen.
-2. Ändere den Autor überall in "Friends Of REDAXO", insbesondere in der `package.yml`.
-3. Ändere die Supportpage in der `package.yml` auf die URL des neuen GitHub-Repositorys und passe auch andere Links zum Repository an.
-4. Falls das Addon bereits in deinem MyREDAXO-Account angelegt wurde — du also den Addon-Key besitzt —, bitte die Admins darum, das Addon den Friends Of REDAXO zu übertragen.
-5. Nach erfolgreicher Übertragung könntest du — könnten wir! — ein neues Major-Release veröffentlichen, damit es alle mitbekommen. 🍾
+1. Du kannst dein Repo nur dann an FOR, übertragen, wenn du auch FOR-Mitglied bist. Kontaktiere uns also vor den nächsten Schritten, damit wir dich als Mitglied aufnehmen können. Solltest du kein Mitglied werden wollen, kannst du dein Repo nach vorheriger Abstimmung an eines der Mitglieder übertragen, das es danach weiter an FOR überträgt.
+2. Benutze in den Repository-Settings die Option "Transfer ownership", um dein Repository an `FriendsOfREDAXO` (oder ein Mitglied) zu übertragen.
+3. Ändere den Autor überall in "Friends Of REDAXO", insbesondere in der `package.yml`.
+4. Ändere die Supportpage in der `package.yml` auf die URL des neuen GitHub-Repositorys und passe auch andere Links zum Repository an.
+5. Falls das Addon bereits in deinem MyREDAXO-Account angelegt wurde — du also den Addon-Key besitzt —, bitte die Admins darum, das Addon den Friends Of REDAXO zu übertragen.
+6. Nach erfolgreicher Übertragung könntest du — könnten wir! — ein neues Major-Release veröffentlichen, damit es alle mitbekommen. 🍾
 
 ### Ein Release eines Addons erstellen
 
