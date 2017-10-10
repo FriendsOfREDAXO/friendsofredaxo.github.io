@@ -61,7 +61,6 @@
 'ui_tools':                     {'lead': 'elricco'}
 'undo':                         {'lead': 'Hirbod'}
 'uploader':                     {'lead': 'IngoWinter'}
-'url_schemes':                  {'lead': 'skerbis'}
 'urlreplacer':                  {'lead': 'skerbis'}
 'useragent':                    {'lead': 'phoebusryan'}
 'video':                        {'lead': 'skerbis'}
@@ -71,4 +70,5 @@
 'yform_usability':              {'lead': 'lexplatt', 'transferred_at': '2017-02-09'}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
 'yrewrite_one_level':           {'lead': 'schuer'}
+'yrewrite_scheme':              {'lead': 'skerbis'}
 'zip_install':                  {'lead': 'Hirbod'}
