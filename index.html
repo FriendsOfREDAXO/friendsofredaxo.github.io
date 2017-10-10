@@ -43,7 +43,7 @@ title: Friends Of REDAXO
         {% assign isnew = true %}
     {% endif %}
     
-    {% if deprecated %}
+    {% if site.data.projects[repository.name].deprecated %}
         {% assign isdeprecated = true %}
     {% endif %}
 
