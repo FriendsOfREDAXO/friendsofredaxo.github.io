@@ -15,7 +15,11 @@ Um die Website lokal einzurichten, sind folgende Schritte notwendig:
 
         $ gem install bundler
 
-3. __Jekyll starten__
+3. __Bundles__ installieren
+
+        $ bundle install
+
+4. __Jekyll starten__
 
         $ bundle exec jekyll serve
 
