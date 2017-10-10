@@ -57,7 +57,7 @@ title: Friends Of REDAXO
         {% assign user_avatar = site.github.owner_gravatar_url %}
     {% endif %}
     
-    <li class="highscore__item{% if isnew %} highscore__item--deprecated{% endif %}">
+    <li class="highscore__item{% if isdeprecated %} highscore__item--deprecated{% endif %}">
         <div class="highscore__item-col highscore__item-col--1">
             <div class="highscore__avatar">
                 <a class="highscore__avatar-link" href="{{ user_url }}" title="Lead: {{ user_name }}">
