@@ -34,6 +34,10 @@ Um die Website lokal einzurichten, sind folgende Schritte notwendig:
         $ \curl -sSL https://get.rvm.io | bash -s stable --ruby
     
     Wenn die Installation durch ist, ein neues Terminalfenster öffnen und den Befehl `rvm list known` absetzen. Das zeigt eine Liste aller Ruby Versionen. Ist die Version 2.4 nicht dabei, kann man mit `rvm install ruby-2.4.0` diese installieren. Mit `ruby -v` erfährt man die aktuell genutzte Version. Sollte es eine ältere Version als 2.4 sein, kann man mit `rvm use ruby-2.4.0` das anpassen.
+    
+    Sollte die Installation schieflaufen, überprüfe, ob die _XCode Command Line Developer Tools_ installiert sind:
+    
+        $ xcode-select --install
 
 ## Anmerkungen
 
