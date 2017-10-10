@@ -136,6 +136,10 @@ a {
   box-sizing: border-box;
 }
 
+.highscore__item--deprecated {
+  opacity: .6;
+}
+
 .highscore__item-col {
   padding: 0 1em;
 
