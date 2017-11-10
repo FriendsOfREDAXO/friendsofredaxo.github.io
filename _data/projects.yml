@@ -11,6 +11,7 @@
 'blog':                         {'lead': 'staabm'}
 'bootstrap':                    {'lead': 'olien'}
 'cache_warmup':                 {'lead': 'schuer'}
+'cookie_consent':               {'lead': 'chrison94'}
 'css_above_the_fold':           {'lead': 'lexplatt', 'transferred_at': '2017-10-01'}
 'demo_addon':                   {'lead': 'aeberhard'}
 'demo_base':                    {'lead': 'polarpixel'}
