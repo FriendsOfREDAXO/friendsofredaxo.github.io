@@ -242,40 +242,16 @@ a {
   text-align: center;
 }
 
-a.trex__link {
-  display: inline-block;
-  position: relative;
-  color: $brand-color-2;
-
-  &:hover,
-  &:focus {
-    color: $brand-color;
-  }
-
-  &:after {
-    content: 'Home';
-    font-size: 11px;
-    line-height: 1;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    font-weight: bold;
-    position: absolute;
-    right: 100%;
-    bottom: 55px;
-    margin-right: -40px;
-  }
-}
-
 .trex__image {
   display: inline-block;
-  width: auto;
-  height: 80px;
+  width: 120px;
+  height: 120px;
 }
 
 /* link home */
 
 .link-home {
-  margin: -20px 0 10px 0;
+  margin: 0 0 20px 0;
 }
 
 .link-home__link {
