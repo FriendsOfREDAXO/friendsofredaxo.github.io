@@ -1,4 +1,4 @@
-![Screenshot](https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/trex_1600x600.png)
+![Screenshot](https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/v2/custom/FOR-banner_1600x600.png)
 
 # Informationen zum Projekt
 
