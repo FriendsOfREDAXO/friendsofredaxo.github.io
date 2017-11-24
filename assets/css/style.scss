@@ -280,12 +280,27 @@ a {
 .site-footer {
   border-top: 0;
   text-align: center;
-  padding-top: 0;
+  padding-top: 20px;
+  padding-bottom: 50px;
 }
 
-a.github-badge {
-  display: inline-block;
-  vertical-align: middle;
+.badges {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.badges__column {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  max-width: 120px;
+}
+
+a.badge {
   color: $grey-color;
   font-size: 14px;
 
@@ -294,26 +309,23 @@ a.github-badge {
     color: $brand-color;
     text-decoration: none;
   }
+}
 
-  .icon--github {
-    > svg {
-      width: 40px;
-      height: 40px;
+.badge__icon {
+  > svg {
+    width: 50px;
+    height: 50px;
 
-      path {
-        fill: currentColor;
-      }
+    path {
+      fill: currentColor;
     }
   }
+}
 
-  .username {
-    display: block;
-    padding-top: 5px;
-
-    span {
-      padding: 0 1px;
-    }
-  }
+.badge__title {
+  display: block;
+  padding-top: 5px;
+  white-space: nowrap;
 }
 
 /* Küken

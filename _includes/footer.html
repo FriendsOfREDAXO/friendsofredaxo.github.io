@@ -1,7 +1,26 @@
 <footer class="site-footer">
     <div class="wrapper">
 
-        {% include icon-github.html %}
+        <div class="badges">
+            <div class="badges__column">
+                <a class="badge badge--slack" href="https://redaxo.org/slack/" title="Slack">
+                    <span class="badge__icon icon icon--slack">{% include_relative assets/svg/slack.svg %}</span>
+                    <span class="badge__title">Slack Chat</span>
+                </a>
+            </div>
+            <div class="badges__column">
+                <a class="badge badge--github" href="https://github.com/FriendsOfREDAXO" title="FriendsOfREDAXO">
+                    <span class="badge__icon icon icon--github">{% include_relative assets/svg/github.svg %}</span>
+                    <span class="badge__title">GitHub</span>
+                </a>
+            </div>
+            <div class="badges__column">
+                <a class="badge badge--map" href="https://friendsofredaxo.github.io/community/" title="Community Map">
+                    <span class="badge__icon icon icon--map">{% include_relative assets/svg/location.svg %}</span>
+                    <span class="badge__title">Community Map</span>
+                </a>
+            </div>
+        </div>
 
     </div>
 </footer>
