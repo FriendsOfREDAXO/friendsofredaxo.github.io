@@ -59,6 +59,7 @@
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'treestructure':                {'lead': 'tgoellner'}
+'tui_editor':                   {'lead': 'skerbis'}
 'twoeg':                        {'lead': 'tgoellner'}
 'ui_tools':                     {'lead': 'elricco'}
 'undo':                         {'lead': 'Hirbod'}
