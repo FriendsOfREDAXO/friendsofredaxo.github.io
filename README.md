@@ -2,11 +2,11 @@
 
 # Informationen zum Projekt
 
-Dies ist der Ort für gemeinsame [REDAXO](http://www.redaxo.org)-Entwicklung. Alles, was hier entwickelt wird, ist Teil der [Community](https://friendsofredaxo.github.io/community/) und damit Gemeingut.
+Dies ist der Ort für gemeinsame [REDAXO](https://redaxo.org)-Entwicklung. Alles, was hier entwickelt wird, ist Teil der [Community](https://friendsofredaxo.github.io/community/) und damit Gemeingut.
 
 Hier entstehen Addons, Plugins, Templates, Module oder sonstige nützliche Dinge für REDAXO. Jeder kann mitmachen und sich an bestehenden Projekten beteiligen, Ideen anbringen, über Features diskutieren und neue Projekte starten.
 
-Interesse? Großartig. Mach’ dich irgendwie bemerkbar ([Slack](http://www.redaxo.org/slack/), [Github-Issue](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io/issues), [Forum](http://www.redaxo.org/de/forum/), [Twitter](https://twitter.com/redaxo), E-Mail an friendsof {at} redaxo.org), dann holt dich jemand ins Team! 🙋🏼
+Interesse? Großartig. Mach’ dich irgendwie bemerkbar ([Slack](https://redaxo.org/slack/), [Github-Issue](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io/issues), [Forum](https://redaxo.org/forum/), [Twitter](https://twitter.com/REDAXO), E-Mail an friendsof {at} redaxo.org), dann holt dich jemand ins Team! 🙋🏼
 
 ## Warum?
 
