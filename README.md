@@ -2,7 +2,7 @@
 
 # Informationen zum Projekt
 
-Dies ist der Ort für gemeinsame [REDAXO](http://www.redaxo.org)-Entwicklung. Alles, was hier entwickelt wird, ist Teil der Community und damit Gemeingut.
+Dies ist der Ort für gemeinsame [REDAXO](http://www.redaxo.org)-Entwicklung. Alles, was hier entwickelt wird, ist Teil der [Community](https://friendsofredaxo.github.io/community/) und damit Gemeingut.
 
 Hier entstehen Addons, Plugins, Templates, Module oder sonstige nützliche Dinge für REDAXO. Jeder kann mitmachen und sich an bestehenden Projekten beteiligen, Ideen anbringen, über Features diskutieren und neue Projekte starten.
 
