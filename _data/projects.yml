@@ -62,6 +62,7 @@
 'tui_editor':                   {'lead': 'skerbis'}
 'twoeg':                        {'lead': 'tgoellner'}
 'ui_tools':                     {'lead': 'elricco'}
+'uikit_collection':             {'lead': 'skerbis'}
 'undo':                         {'lead': 'Hirbod'}
 'uploader':                     {'lead': 'IngoWinter'}
 'urlreplacer':                  {'lead': 'skerbis', 'deprecated': true}
