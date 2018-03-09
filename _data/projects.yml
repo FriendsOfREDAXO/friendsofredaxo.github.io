@@ -53,7 +53,7 @@
 'redaxo-mit-bimmelbam':         {'lead': 'schuer'}
 'redaxo-mit-docker':            {'lead': 'schuer'}
 'search_it':                    {'lead': 'tyrant88', 'transferred_at': '2017-02-05'}
-'seoseoinspector':              {'lead': 'rokitole', 'transferred_at': '2018-03-09'}
+'seoinspector':                 {'lead': 'rokitole', 'transferred_at': '2018-03-09'}
 'shoppingcart':                 {'lead': 'Hirbod'}
 'simplestats':                  {'lead': 'staabm'}
 'sked':                         {'lead': 'joachimdoerr'}
