@@ -64,7 +64,7 @@
 'theme':                        {'lead': 'DanielWeitenauer'}
 'tinymce4':                     {'lead': 'akuehnis', 'transferred_at': '2018-04-29'}
 'treestructure':                {'lead': 'tgoellner'}
-'tui_editor':                   {'lead': 'skerbis'}
+'tui_editor':                   {'lead': 'skerbis', 'deprecated': true}
 'twoeg':                        {'lead': 'tgoellner'}
 'ui_tools':                     {'lead': 'elricco'}
 'uikit_collection':             {'lead': 'skerbis', 'transferred_at': '2018-02-19'}
