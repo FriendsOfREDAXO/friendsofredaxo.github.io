@@ -1,6 +1,6 @@
 theme: minima
 repository: FriendsOfREDAXO/friendsofredaxo.github.io 
-gems: ['jekyll-github-metadata', 'jekyll-seo-tag']
+plugins: ['jekyll-github-metadata', 'jekyll-seo-tag']
 timezone: Europe/Berlin
 
 # defaults
