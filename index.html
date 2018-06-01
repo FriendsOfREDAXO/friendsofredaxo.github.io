@@ -3,7 +3,7 @@ layout: home
 title: Friends Of REDAXO
 ---
 
-{% assign repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse %}
+{% assign repos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
 
 {% for repository in repos %}
     {% capture stars_count %} {{ stars_count | plus: repository.stargazers_count }} {% endcapture %}
@@ -50,7 +50,7 @@ title: Friends Of REDAXO
     {% if member %}
         {% assign user_url = member.html_url %}
         {% assign user_name = member.login %}
-        {% assign user_avatar = member.avatar_url + '&s=100' %}
+        {% assign user_avatar = member.avatar_url | append: '&s=150' %}
     {% else %}
         {% assign user_url = site.github.owner_url %}
         {% assign user_name = site.github.owner_name %}
@@ -70,6 +70,7 @@ title: Friends Of REDAXO
                 <span class="highscore__item-name">
                     {{ repository.name }}
                     {% if isnew %}<span class="highscore__item-marker">Neu</span>{% endif %}
+                    {% if isdeprecated %}<span class="highscore__item-deprecated" title="Projekt wird nicht weiter gepflegt!">Deprecated</span>{% endif %}
                 </span>
                 <span class="highscore__item-description">
                     {{ repository.description | replace: '🐣', '<span class="kueken" title="Projekt ist noch nicht final!">🐣</span>' }}
