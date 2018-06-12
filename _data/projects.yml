@@ -65,13 +65,13 @@
 'theme':                        {'lead': 'DanielWeitenauer'}
 'tinymce4':                     {'lead': 'akuehnis', 'transferred_at': '2018-04-29'}
 'treestructure':                {'lead': 'tgoellner'}
-'tui_editor':                   {'lead': 'skerbis', 'deprecated': true}
+'tui_editor':                   {'lead': 'skerbis'}
 'twoeg':                        {'lead': 'tgoellner'}
 'ui_tools':                     {'lead': 'elricco'}
 'uikit_collection':             {'lead': 'skerbis', 'transferred_at': '2018-02-19'}
 'undo':                         {'lead': 'Hirbod'}
 'uploader':                     {'lead': 'IngoWinter'}
-'urlreplacer':                  {'lead': 'skerbis', 'deprecated': true}
+'urlreplacer':                  {'lead': 'skerbis'}
 'useragent':                    {'lead': 'phoebusryan'}
 'video':                        {'lead': 'skerbis'}
 'webdav':                       {'lead': 'staabm'}
@@ -79,6 +79,6 @@
 'yform_geo_osm':                {'lead': 'NGWNGW'}
 'yform_usability':              {'lead': 'lexplatt', 'transferred_at': '2017-02-09'}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
-'yrewrite_one_level':           {'lead': 'schuer', 'deprecated': true}
+'yrewrite_one_level':           {'lead': 'schuer'}
 'yrewrite_scheme':              {'lead': 'skerbis'}
 'zip_install':                  {'lead': 'Hirbod'}

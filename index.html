@@ -32,7 +32,7 @@ title: Friends Of REDAXO
     {% endif %}
 
     {% assign isnew = false %}
-    {% assign isdeprecated = false %}
+    {% assign isarchived = repository.archived %}
     {% capture created %} {{ repository.created_at | date: '%s'}} {% endcapture %}
     {% capture transferred %} {{ site.data.projects[repository.name].transferred_at | date: '%s'}} {% endcapture %}
     {% capture duedate %} {{ 'now' | date: '%s' | minus: '5184000' }} {% endcapture %}
@@ -41,10 +41,6 @@ title: Friends Of REDAXO
         {% assign isnew = true %}
     {% elsif created and created > duedate %}
         {% assign isnew = true %}
-    {% endif %}
-    
-    {% if site.data.projects[repository.name].deprecated %}
-        {% assign isdeprecated = true %}
     {% endif %}
 
     {% if member %}
@@ -57,7 +53,7 @@ title: Friends Of REDAXO
         {% assign user_avatar = site.github.owner_gravatar_url %}
     {% endif %}
     
-    <li class="highscore__item{% if isdeprecated %} highscore__item--deprecated{% endif %}">
+    <li class="highscore__item{% if isarchived %} highscore__item--archived{% endif %}">
         <div class="highscore__item-col highscore__item-col--1">
             <div class="highscore__avatar">
                 <a class="highscore__avatar-link" href="{{ user_url }}" title="Lead: {{ user_name }}">
@@ -70,7 +66,7 @@ title: Friends Of REDAXO
                 <span class="highscore__item-name">
                     {{ repository.name }}
                     {% if isnew %}<span class="highscore__item-marker">Neu</span>{% endif %}
-                    {% if isdeprecated %}<span class="highscore__item-deprecated" title="Projekt wird nicht weiter gepflegt!">Deprecated</span>{% endif %}
+                    {% if isarchived %}<span class="highscore__item-archived" title="Projekt wird nicht weiter gepflegt!">Archived</span>{% endif %}
                 </span>
                 <span class="highscore__item-description">
                     {{ repository.description | replace: '🐣', '<span class="kueken" title="Projekt ist noch nicht final!">🐣</span>' }}
