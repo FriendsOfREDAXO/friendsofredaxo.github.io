@@ -51,6 +51,7 @@
 'newsmanager':                  {'lead': 'georgkaser'}
 'osmproxy':                     {'lead': 'skerbis'}
 'out5':                         {'lead': 'olien'}
+'parameter_rewrite':            {'lead': 'thielpeter'}
 'pdfout':                       {'lead': 'skerbis'}
 'pdf_viewer':                   {'lead': 'skerbis', 'transferred_at': '2018-06-21'}
 'photoswipe':                   {'lead': 'gseilheimer'}
