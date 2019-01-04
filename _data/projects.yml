@@ -36,7 +36,7 @@
 'iconpicker':                   {'lead': 'polarpixel'}
 'lightgallery':                 {'lead': 'gseilheimer'}
 'linkchecker':                  {'lead': 'olien'}
-'maintenance':                  {'lead': 'skerbis'}
+'maintenance':                  {'lead': ''}
 'markitup':                     {'lead': 'phoebusryan'}
 'mblock':                       {'lead': 'joachimdoerr'}
 'media_manager_autorewrite':    {'lead': 'Hirbod'}
@@ -70,7 +70,7 @@
 'seoinspector':                 {'lead': 'rokitole', 'transferred_at': '2018-03-09'}
 'shoppingcart':                 {'lead': 'Hirbod'}
 'simplestats':                  {'lead': 'staabm'}
-'sked':                         {'lead': 'skerbis'}
+'sked':                         {'lead': ''}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'tinymce4':                     {'lead': 'akuehnis', 'transferred_at': '2018-04-29'}
