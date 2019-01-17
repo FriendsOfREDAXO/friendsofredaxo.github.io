@@ -12,9 +12,11 @@
 'bloecks':                      {'lead': 'tgoellner'}
 'blog':                         {'lead': 'staabm'}
 'bootstrap_helper':             {'lead': 'olien'}
+'bricky':                       {'lead': ''}
 'cache_warmup':                 {'lead': 'schuer'}
 'cke5':                         {'lead': 'joachimdoerr'}
 'clear_content':                {'lead': 'olien'}
+'community':                    {'lead': ''}
 'cookie_consent':               {'lead': 'bloep'}
 'css_above_the_fold':           {'lead': 'lexplatt', 'transferred_at': '2017-10-01'}
 'demo_addon':                   {'lead': 'aeberhard'}
@@ -30,6 +32,7 @@
 'export_cleanup':               {'lead': 'VIEWSION'}
 'focuspoint':                   {'lead': 'christophboecker'}
 'foundation':                   {'lead': 'muenzberg-me'}
+'friendsofredaxo.github.io':    {'lead': ''}
 'frontend_edit':                {'lead': 'Hirbod'}
 'gloebals':                     {'lead': 'tgoellner'}
 'hyphenator':                   {'lead': 'phoebusryan'}
@@ -75,7 +78,9 @@
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'tinymce4':                     {'lead': 'akuehnis', 'transferred_at': '2018-04-29'}
+'tinymce5':                     {'lead': ''}
 'treestructure':                {'lead': 'tgoellner'}
+'tricks':                       {'lead': ''}
 'tui_editor':                   {'lead': 'skerbis'}
 'twoeg':                        {'lead': 'tgoellner'}
 'ui_tools':                     {'lead': 'elricco'}
@@ -87,6 +92,7 @@
 'video':                        {'lead': 'IngoWinter'}
 'webdav':                       {'lead': 'staabm'}
 'xoutputfilter':                {'lead': 'aeberhard'}
+'yform_geo':                    {'lead': ''}
 'yform_geo_osm':                {'lead': 'NGWNGW'}
 'yform_usability':              {'lead': 'lexplatt', 'transferred_at': '2017-02-09'}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
