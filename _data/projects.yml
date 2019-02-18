@@ -18,6 +18,7 @@
 'clear_content':                {'lead': 'olien'}
 'community':                    {'lead': ''}
 'cookie_consent':               {'lead': 'bloep'}
+'cropper':                      {'lead': 'skerbis'}
 'css_above_the_fold':           {'lead': 'lexplatt', 'transferred_at': '2017-10-01'}
 'demo_addon':                   {'lead': 'aeberhard'}
 'demo_base':                    {'lead': 'polarpixel'}
