@@ -3,7 +3,7 @@ layout: home
 title: Friends Of REDAXO
 ---
 
-{% assign repos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
+{% assign repos = site.github.public_repositories | where_exp: 'repo', 'repo.name != ".github"' | sort: 'stargazers_count' | reverse %}
 
 {% for repository in repos %}
     {% capture stars_count %} {{ stars_count | plus: repository.stargazers_count }} {% endcapture %}
@@ -12,7 +12,7 @@ title: Friends Of REDAXO
 <div class="stats">
     <p class="stats__text">
         <span class="stats__text-item"><strong>{{ site.github.organization_members | size }}</strong> Mitglieder</span>,
-        <span class="stats__text-item"><strong>{{ site.github.public_repositories | size }}</strong> Projekte</span>,
+        <span class="stats__text-item"><strong>{{ repos | size }}</strong> Projekte</span>,
         <span class="stats__text-item"><strong>{{ stars_count }}</strong> Sterne</span>
     </p>
 </div>
