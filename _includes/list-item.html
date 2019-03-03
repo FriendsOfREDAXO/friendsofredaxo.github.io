@@ -1,0 +1,55 @@
+{% assign member = false %}
+{% if site.data.projects[repository.name].lead %}
+    {% assign memberResult = site.github.organization_members | where: 'login', site.data.projects[repository.name].lead %}
+    {% assign member = memberResult.first %}
+{% endif %}
+
+{% assign isnew = false %}
+{% assign isarchived = repository.archived %}
+{% capture created %} {{ repository.created_at | date: '%s'}} {% endcapture %}
+{% capture transferred %} {{ site.data.projects[repository.name].transferred_at | date: '%s'}} {% endcapture %}
+{% capture duedate %} {{ 'now' | date: '%s' | minus: '5184000' }} {% endcapture %}
+
+{% if transferred and transferred > duedate %}
+    {% assign isnew = true %}
+{% elsif created and created > duedate %}
+    {% assign isnew = true %}
+{% endif %}
+
+{% if member %}
+    {% assign user_url = member.html_url %}
+    {% assign user_name = member.login %}
+    {% assign user_avatar = member.avatar_url | append: '&s=150' %}
+{% else %}
+    {% assign user_url = site.github.owner_url %}
+    {% assign user_name = site.github.owner_name %}
+    {% assign user_avatar = site.github.owner_gravatar_url %}
+{% endif %}
+
+<li class="highscore__item{% if isarchived %} highscore__item--archived{% endif %}">
+    <div class="highscore__item-col highscore__item-col--1">
+        <div class="highscore__avatar">
+            <a class="highscore__avatar-link" href="{{ user_url }}" title="Lead: {{ user_name }}">
+                <img class="highscore__avatar-img" src="{{ user_avatar }}" alt="{{ user_name }}">
+            </a>
+        </div>
+    </div>
+    <div class="highscore__item-col highscore__item-col--2">
+        <a class="highscore__item-link" href="{{ repository.html_url }}">
+            <span class="highscore__item-name">
+                {{ repository.name }}
+                {% if isnew %}<span class="highscore__item-marker">Neu</span>{% endif %}
+                {% if isarchived %}<span class="highscore__item-archived" title="Projekt wird nicht weiter gepflegt!">Archived</span>{% endif %}
+            </span>
+            <span class="highscore__item-description">
+                {{ repository.description | replace: '🐣', '<span class="kueken" title="Projekt ist noch nicht final!">🐣</span>' }}
+            </span>
+        </a>
+    </div>
+    <div class="highscore__item-col highscore__item-col--3">
+        <a class="highscore__stars-link" href="{{ repository.html_url }}">
+            <span class="highscore__item-stars">{{ repository.stargazers_count }}</span>
+            <svg aria-hidden="true" class="octicon octicon-star" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+        </a>
+    </div>
+</li>
