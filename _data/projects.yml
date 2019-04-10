@@ -96,6 +96,7 @@
 'video':                        {'lead': 'skerbis'}
 'webdav':                       {'lead': 'staabm'}
 'xoutputfilter':                {'lead': 'aeberhard'}
+'yform_dropzone':               {'lead': 'alexplusde', 'transferred_at': '2019-04-08'}
 'yform_geo':                    {'lead': ''}
 'yform_geo_osm':                {'lead': 'NGWNGW'}
 'yform_usability':              {'lead': 'lexplatt', 'transferred_at': '2017-02-09'}
