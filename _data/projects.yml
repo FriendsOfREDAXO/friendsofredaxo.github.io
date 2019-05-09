@@ -32,6 +32,7 @@
 'emailobfuscator':              {'lead': 'phoebusryan'}
 'errormail':                    {'lead': 'skerbis'}
 'export_cleanup':               {'lead': 'VIEWSION'}
+'feeds':                        {'lead': 'skerbis', 'transferred_at': '2019-05-09'}
 'focuspoint':                   {'lead': 'christophboecker'}
 'foundation':                   {'lead': 'muenzberg-me'}
 'friendsofredaxo.github.io':    {'lead': ''}
