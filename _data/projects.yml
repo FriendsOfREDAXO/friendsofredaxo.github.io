@@ -70,6 +70,7 @@
 'pdf_viewer':                   {'lead': ''}
 'photoswipe':                   {'lead': 'gseilheimer'}
 'piwik':                        {'lead': 'gseilheimer'}
+'plyr':                         {'lead': 'skerbis'}
 'poll':                         {'lead': 'dergel'}
 'project_manager':              {'lead': 'rkemmere'}
 'properties':                   {'lead': 'aeberhard'}
@@ -98,7 +99,6 @@
 'uppy':                         {'lead': 'joachimdoerr'}
 'urlreplacer':                  {'lead': 'skerbis'}
 'useragent':                    {'lead': 'phoebusryan'}
-'video':                        {'lead': 'skerbis'}
 'webdav':                       {'lead': 'staabm'}
 'xoutputfilter':                {'lead': 'aeberhard'}
 'yform_dropzone':               {'lead': 'alexplusde', 'transferred_at': '2019-04-08'}
