@@ -85,6 +85,7 @@
 'simplestats':                  {'lead': 'staabm'}
 'sked':                         {'lead': 'skerbis'}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
+'textile_migration':            {'lead': 'joachimdoerr'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'tinymce4':                     {'lead': 'lexplatt', 'transferred_at': '2018-04-29'}
 'tinymce5':                     {'lead': ''}
