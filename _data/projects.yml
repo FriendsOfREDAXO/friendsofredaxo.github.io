@@ -9,6 +9,7 @@
 'aw_navigation':                {'lead': 'dtpop'}
 'be_explorer':                  {'lead': 'rkemmere'}
 'be_password':                  {'lead': 'IngoWinter', 'transferred_at': '2017-10-09'}
+'be_tools':                     {'lead': 'iceman-fx'}
 'bloecks':                      {'lead': 'tgoellner'}
 'blog':                         {'lead': 'staabm'}
 'bootstrap_helper':             {'lead': 'olien'}
@@ -81,6 +82,7 @@
 'redaxo-mit-bimmelbam':         {'lead': 'schuer'}
 'redaxo-mit-docker':            {'lead': 'schuer'}
 'search_it':                    {'lead': 'tyrant88', 'transferred_at': '2017-02-05'}
+'seocheckup':                   {'lead': 'iceman-fx'}
 'seoinspector':                 {'lead': 'rokitole', 'transferred_at': '2018-03-09'}
 'shoppingcart':                 {'lead': 'Hirbod'}
 'simplestats':                  {'lead': 'staabm'}
