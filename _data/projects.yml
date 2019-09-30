@@ -71,6 +71,7 @@
 'pdfout':                       {'lead': 'crydotsnake'}
 'pdf_viewer':                   {'lead': ''}
 'photoswipe':                   {'lead': 'gseilheimer'}
+'phpdoc':                       {'lead': 'bloep'}
 'piwik':                        {'lead': 'gseilheimer'}
 'plyr':                         {'lead': 'skerbis'}
 'poll':                         {'lead': 'dergel'}
