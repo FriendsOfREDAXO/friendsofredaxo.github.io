@@ -45,12 +45,13 @@
 'hyphenator':                   {'lead': 'phoebusryan'}
 'icecoder':                     {'lead': 'skerbis'}
 'iconpicker':                   {'lead': 'polarpixel'}
+'iwcc':                         {'lead': 'IngoWinter'}
 'lightgallery':                 {'lead': 'gseilheimer'}
 'linkchecker':                  {'lead': 'olien'}
 'linter':                       {'lead': 'staabm'}
 'maintenance':                  {'lead': 'skerbis'}
 'markitup':                     {'lead': 'phoebusryan'}
-'matomo':                        {'lead': 'skerbis', 'transferred_at': '2019-07-31'}
+'matomo':                       {'lead': 'skerbis', 'transferred_at': '2019-07-31'}
 'mblock':                       {'lead': 'joachimdoerr'}
 'media_manager_autorewrite':    {'lead': 'Hirbod'}
 'media_manager_plus':           {'lead': 'phoebusryan'}
