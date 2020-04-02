@@ -6,7 +6,7 @@ Dies ist der Ort für gemeinsame [REDAXO](https://redaxo.org)-Entwicklung. Alles
 
 Hier entstehen Addons, Plugins, Templates, Module oder sonstige nützliche Dinge für REDAXO. Jeder kann mitmachen und sich an bestehenden Projekten beteiligen, Ideen anbringen, über Features diskutieren und neue Projekte starten.
 
-Interesse? Großartig. Mach’ dich irgendwie bemerkbar ([Slack](https://redaxo.org/slack/), [Github-Issue](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io/issues), [Forum](https://redaxo.org/forum/), [Twitter](https://twitter.com/REDAXO), E-Mail an friendsof {at} redaxo.org), dann holt dich jemand ins Team! 🙋🏼
+Interesse? Großartig. Mach’ dich irgendwie bemerkbar ([Slack](https://redaxo.org/slack/), [Github-Issue](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io/issues), [Twitter](https://twitter.com/REDAXO), E-Mail an friendsof {at} redaxo.org), dann holt dich jemand ins Team! 🙋🏼
 
 ## Warum?
 
