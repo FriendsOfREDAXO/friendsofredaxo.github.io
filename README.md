@@ -90,8 +90,9 @@ Der Merge selbst ist übrigens nur ein Klick — und gerne auch ein »Danke« hi
 
 Einen neuen Assets-Branch — z. B. für Screenshots in der README — solltest du besser nicht aus dem vollen Master-Branch heraus erstellen und danach leeren, sondern ihn gleich leer anlegen. Das geht so:
 
-```
+```bash
 git checkout --orphan assets
+git commit --allow-empty -m "assets branch erstellt"
 git rm -rf .
 ```
 
