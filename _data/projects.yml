@@ -85,6 +85,7 @@
 'redactor':                     {'lead': 'tbaddade'}
 'redactor2':                    {'lead': 'phoebusryan'}
 'redaxo.docset':                {'lead': 'gorkarod'}
+'redaxo-in-rome':               {'lead': 'schuer'}
 'redaxo-mit-bimmelbam':         {'lead': 'schuer'}
 'redaxo-mit-docker':            {'lead': 'schuer'}
 'search_it':                    {'lead': 'tyrant88', 'transferred_at': '2017-02-05'}
