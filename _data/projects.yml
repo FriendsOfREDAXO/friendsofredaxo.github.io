@@ -43,6 +43,7 @@
 'global_settings':              {'lead': 'skerbis'}
 'gloebals':                     {'lead': 'tgoellner'}
 'hyphenator':                   {'lead': 'phoebusryan'}
+'http_header':                  {'lead': 'olien'}
 'icecoder':                     {'lead': 'skerbis'}
 'iconpicker':                   {'lead': 'polarpixel'}
 'iwcc':                         {'lead': 'IngoWinter'}
