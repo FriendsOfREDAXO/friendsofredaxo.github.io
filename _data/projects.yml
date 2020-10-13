@@ -35,6 +35,7 @@
 'errormail':                    {'lead': 'skerbis'}
 'experimental':                 {'lead': 'staabm'}
 'export_cleanup':               {'lead': 'VIEWSION'}
+'ffmpeg':                       {'lead': 'skerbis', 'transferred_at': '2020-10-13'}
 'feeds':                        {'lead': 'alexplusde', 'transferred_at': '2019-05-09'}
 'focuspoint':                   {'lead': 'christophboecker'}
 'foundation':                   {'lead': 'muenzberg-me'}
