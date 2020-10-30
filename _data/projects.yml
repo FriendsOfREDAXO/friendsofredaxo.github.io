@@ -95,6 +95,7 @@
 'shell':                        {'lead': 'gharlan'}
 'shoppingcart':                 {'lead': 'Hirbod'}
 'simple_oauth':                 {'lead': 'dergel'}
+'simple_saml':                  {'lead': 'dergel'}
 'simplestats':                  {'lead': 'staabm'}
 'sked':                         {'lead': 'skerbis'}
 'spellchecker':                 {'lead': 'dergel'}
