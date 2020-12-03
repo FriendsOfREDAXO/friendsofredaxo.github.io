@@ -21,6 +21,7 @@
 'clippy':                       {'lead': 'alexplusde'}
 'community':                    {'lead': ''}
 'cookie_consent':               {'lead': 'bloep'}
+'consent_manager':              {'lead': 'IngoWinter'}
 'cropper':                      {'lead': 'skerbis'}
 'css_above_the_fold':           {'lead': 'lexplatt', 'transferred_at': '2017-10-01'}
 'demo_addon':                   {'lead': 'aeberhard'}
@@ -47,7 +48,6 @@
 'http_header':                  {'lead': 'olien'}
 'icecoder':                     {'lead': 'skerbis'}
 'iconpicker':                   {'lead': 'polarpixel'}
-'iwcc':                         {'lead': 'IngoWinter'}
 'lightgallery':                 {'lead': 'gseilheimer'}
 'linkchecker':                  {'lead': 'olien'}
 'linkmap_concept':              {'lead': 'thielpeter'}
