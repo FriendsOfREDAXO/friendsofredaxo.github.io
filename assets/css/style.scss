@@ -156,7 +156,14 @@ a {
 }
 
 .highscore__item-col--1 {
-  padding-right: 0.5em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 0 0.5em;
+  min-width: 75px; // 2 avatars
 
   @include media-query($on-palm) {
     padding-left: 0.5em;
@@ -242,12 +249,22 @@ a {
 
 .highscore__avatar {
   width: 45px;
+
+  & + & {
+    margin-left: -15px;
+  }
 }
 
 .highscore__avatar-link {
+  position: relative;
   display: block;
   padding: 5px;
   margin: -5px;
+
+  &:hover,
+  &:focus {
+    z-index: 1;
+  }
 }
 
 .highscore__avatar-img {
@@ -255,6 +272,7 @@ a {
   width: 45px;
   height: 45px;
   border-radius: 100%;
+  border: 2px solid rgba(255, 255, 255, 0.7);
   overflow: hidden;
 }
 
