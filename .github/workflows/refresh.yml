@@ -2,17 +2,20 @@ name: Refresh
 
 on:
   schedule:
-    - cron: '30 1/4 * * *' # 1:30 every 4 hrs
+    - cron: '30 */4 * * *' # every 4 hrs at minute 30
+  workflow_dispatch:
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     steps:
       - name: Trigger GitHub pages rebuild
         # https://docs.github.com/en/rest/reference/repos#request-a-github-pages-build
         run: |
           curl \
             --header "Accept: application/vnd.github.v3+json" \
-            --header "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            --header "Authorization: Bearer ${{ GITHUB_TOKEN }}" \
             --request POST \
             --url https://api.github.com/repos/${{ github.repository }}/pages/builds
