@@ -13,9 +13,8 @@ jobs:
         # https://docs.github.com/en/rest/reference/repos#request-a-github-pages-build
         run: |
           curl \
+            --fail \
             --header "Accept: application/vnd.github.v3+json" \
             --header "Authorization: Bearer ${{ GITHUB_TOKEN }}" \
             --request POST \
             --url https://api.github.com/repos/${{ github.repository }}/pages/builds
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
