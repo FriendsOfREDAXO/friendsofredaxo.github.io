@@ -14,6 +14,6 @@ jobs:
         run: |
           curl \
             --header "Accept: application/vnd.github.v3+json" \
-            --header "Authorization: token ${GITHUB_TOKEN}" \
+            --header "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             --request POST \
             --url https://api.github.com/repos/${{ github.repository }}/pages/builds
