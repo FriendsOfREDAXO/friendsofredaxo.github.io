@@ -9,13 +9,13 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     env:
-      TOKEN: ${{secrets.GITHUB_TOKEN}}
+      SECRET: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Trigger GitHub pages rebuild
         # https://docs.github.com/en/rest/reference/repos#request-a-github-pages-build
         run: |
           curl \
             --header "Accept: application/vnd.github.v3+json" \
-            --header "Authorization: Bearer ${{ TOKEN }}" \
+            --header "Authorization: Bearer ${{ SECRET }}" \
             --request POST \
             --url https://api.github.com/repos/${{ github.repository }}/pages/builds
