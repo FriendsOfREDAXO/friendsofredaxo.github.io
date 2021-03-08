@@ -3,7 +3,6 @@ name: Refresh
 on:
   schedule:
     - cron: '30 1/4 * * *' # 1:30 every 4 hrs
-  workflow_dispatch:
 
 jobs:
   refresh:
