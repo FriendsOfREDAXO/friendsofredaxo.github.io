@@ -40,6 +40,7 @@
 'feeds':                        {'lead': 'alexplusde', 'transferred_at': '2019-05-09'}
 'focuspoint':                   {'lead': 'christophboecker'}
 'foundation':                   {'lead': 'muenzberg-me'}
+'forcal':                       {'lead': 'skerbis'}
 'friendsofredaxo.github.io':    {'lead': ''}
 'frontend_edit':                {'lead': 'Hirbod'}
 'global_settings':              {'lead': ''}
@@ -98,7 +99,6 @@
 'simple_oauth':                 {'lead': 'dergel'}
 'simple_saml':                  {'lead': 'dergel'}
 'simplestats':                  {'lead': 'staabm'}
-'sked':                         {'lead': 'skerbis'}
 'spellchecker':                 {'lead': 'dergel'}
 'structure_concept':            {'lead': 'thielpeter'}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
