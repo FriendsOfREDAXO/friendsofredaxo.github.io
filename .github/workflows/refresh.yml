@@ -10,13 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger GitHub pages rebuild
-        env:
-          GH_PAGES_BUILD: ${{ secrets.GH_PAGES_BUILD }}
         # https://docs.github.com/en/rest/reference/repos#request-a-github-pages-build
         run: |
           curl \
             --fail \
             --header "Accept: application/vnd.github.v3+json" \
-            --header "Authorization: token ${{ GH_PAGES_BUILD }}" \
+            --header "Authorization: token ${{ secrets.GH_PAGES_BUILD }}" \
             --request POST \
             --url https://api.github.com/repos/${{ github.repository }}/pages/builds
