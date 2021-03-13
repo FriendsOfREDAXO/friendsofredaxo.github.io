@@ -5,11 +5,10 @@ title: Friends Of REDAXO
 
 {% assign repos = site.github.public_repositories | where_exp: 'repo', 'repo.name != ".github"' | sort: 'stargazers_count' | reverse %}
 
-{% for repository in repos %}
+{% XXXfor repository in repos %}
     {% capture stars_count %} {{ stars_count | plus: repository.stargazers_count }} {% endcapture %}
 {% endfor %}
-test
-test
+
 <div class="stats">
     <p class="stats__text">
         <span class="stats__text-item"><strong>{{ site.github.organization_members | size }}</strong> Mitglieder</span>,
