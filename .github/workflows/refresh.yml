@@ -9,8 +9,9 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger GitHub pages rebuild
+      - name: Trigger GitHub Pages rebuild
         # https://docs.github.com/en/rest/reference/repos#request-a-github-pages-build
+        # requires Personal Access Token (PAT) since GITHUB_TOKEN has no permission to trigger page builds
         run: |
           curl \
             --fail \
