@@ -23,3 +23,10 @@ social:
   links:
     - https://github.com/FriendsOfREDAXO
     - https://twitter.com/redaxo
+
+# Exclude directories and/or files from the conversion.
+# https://jekyllrb.com/docs/configuration/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
