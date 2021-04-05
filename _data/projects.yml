@@ -75,7 +75,7 @@
 'osmproxy':                     {'lead': 'skerbis'}
 'out5':                         {'lead': 'olien'}
 'parameter_rewrite':            {'lead': 'thielpeter'}
-'pdfout':                       {'lead': ''}
+'pdfout':                       {'lead': 'skerbis'}
 'pdf_viewer':                   {'lead': ''}
 'photoswipe':                   {'lead': 'gseilheimer'}
 'phpdoc':                       {'lead': 'bloep'}
