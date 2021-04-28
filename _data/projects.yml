@@ -18,7 +18,7 @@
 'cke5':                         {'lead': 'joachimdoerr'}
 'ckeditor':                     {'lead': 'pschuchmann'}
 'clear_content':                {'lead': 'olien'}
-'clippy':                       {'lead': 'alexplusde'}
+'clippy':                       {'lead': ''}
 'community':                    {'lead': ''}
 'cookie_consent':               {'lead': 'bloep'}
 'consent_manager':              {'lead': 'IngoWinter, aeberhard'}
@@ -30,14 +30,14 @@
 'demo_fullpage':                {'lead': 'aeberhard'}
 'demo_onepage':                 {'lead': 'polarpixel'}
 'developer':                    {'lead': 'gharlan'}
-'dsgvo':                        {'lead': 'alexplusde', 'transferred_at': '2018-06-18'}
+'dsgvo':                        {'lead': '', 'transferred_at': '2018-06-18'}
 'download':                     {'lead': 'Hirbod'}
 'emailobfuscator':              {'lead': 'TobiasKrais'}
 'errormail':                    {'lead': 'skerbis'}
 'experimental':                 {'lead': 'staabm'}
 'export_cleanup':               {'lead': 'VIEWSION'}
 'ffmpeg':                       {'lead': 'skerbis', 'transferred_at': '2020-10-13'}
-'feeds':                        {'lead': 'alexplusde', 'transferred_at': '2019-05-09'}
+'feeds':                        {'lead': '', 'transferred_at': '2019-05-09'}
 'focuspoint':                   {'lead': 'christophboecker'}
 'foundation':                   {'lead': 'muenzberg-me'}
 'forcal':                       {'lead': 'skerbis'}
@@ -70,7 +70,7 @@
 'multiupload':                  {'lead': 'Hirbod'}
 'navbuilder':                   {'lead': 'thielpeter'}
 'navigation_array':             {'lead': 'skerbis'}
-'navigation_factory':           {'lead': 'alexplusde'}
+'navigation_factory':           {'lead': ''}
 'newsmanager':                  {'lead': 'georgkaser'}
 'osmproxy':                     {'lead': 'skerbis'}
 'out5':                         {'lead': 'olien'}
@@ -120,7 +120,7 @@
 'webdav':                       {'lead': 'staabm'}
 'xcore':                        {'lead': ''}
 'xoutputfilter':                {'lead': 'aeberhard'}
-'yform_dropzone':               {'lead': 'alexplusde', 'transferred_at': '2019-04-08'}
+'yform_dropzone':               {'lead': '', 'transferred_at': '2019-04-08'}
 'yform_geo':                    {'lead': ''}
 'yform_geo_osm':                {'lead': 'NGWNGW'}
 'yform_spam_protection':        {'lead': ''}
