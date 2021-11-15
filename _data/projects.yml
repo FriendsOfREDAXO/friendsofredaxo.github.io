@@ -71,7 +71,7 @@
 'minify':                       {'lead': 'pschuchmann'}
 'minify_images':                {'lead': 'phoebusryan'}
 'Modulsammlung':                {'lead': 'olien'}
-'module_preview':               {'lead': 'eaCe'}
+'module_preview':               {'lead': 'eaCe', 'transferred_at': '2021-11-08'}
 'multiglossar':                 {'lead': 'dtpop'}
 'multiupload':                  {'lead': 'Hirbod'}
 'navbuilder':                   {'lead': 'thielpeter'}
