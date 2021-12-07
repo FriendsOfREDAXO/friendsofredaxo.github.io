@@ -114,7 +114,7 @@
 'textile_migration':            {'lead': 'joachimdoerr'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'tinymce4':                     {'lead': 'lexplatt', 'transferred_at': '2018-04-29'}
-'tinymce5':                     {'lead': 'joachimdoerr'}
+'tinymce5':                     {'lead': 'joachimdoerr, alexwenz, skerbis'}
 'treestructure':                {'lead': 'tgoellner'}
 'tricks':                       {'lead': ''}
 'tui_editor':                   {'lead': 'joachimdoerr, skerbis'}
