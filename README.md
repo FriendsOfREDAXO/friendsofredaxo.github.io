@@ -70,7 +70,12 @@ Workflow: Commits > Versionsnummer erhöhen > __Tag & Release__ 👯 > Veröffen
 
 ### Ein Addon veröffentlichen
 
-Aktuell werden Addons im Namen von Friends Of REDAXO noch von Hand veröffentlicht. Es gibt einen gemeinsamen myREDAXO-Account, dessen Passwort wir untereinander austauschen, ohne es irgendwo zu hinterlegen. Zukünftig soll es einen Automatismus geben, der Github-Releases eigenständig auf redaxo.org veröffentlichen kann (siehe [Info/#2](https://github.com/FriendsOfREDAXO/Info/issues/2)).
+Zunächst müssen der Key und die Beschreibung in MyREDAXO auf redaxo.org hinterlegt sein. 
+
+Addons werden im Namen von Friends Of REDAXO entweder von Hand oder über eine GitHub-Action veröffentlicht. Es gibt einen gemeinsamen myREDAXO-Account, dessen Passwort wir untereinander austauschen, ohne es irgendwo zu hinterlegen. Du erhälst es von den Mitgliedern. 
+
+Fügst du deinem Repo die [installer-action](https://github.com/FriendsOfREDAXO/installer-action) hinzu, kannst du das AddOn automatisch auf REDAXO.org releasen und im Installer bereitstellen, sobald du ein Release auf GitHub erstellt hast. 
+
 
 ### Ein Repo forken, um einen Pull Request zu starten
 
