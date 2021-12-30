@@ -88,6 +88,12 @@ Der Merge selbst ist übrigens nur ein Klick — und gerne auch ein »Danke« hi
 
 ### Einen leeren Assets-Branch anlegen
 
+Wir verwenden einen separaten Assets-Branch, damit spätere Releases keine unnötigen Dateien enthalten.
+
+Wenn du beim Erstellen des Repos das Template `rex_repo_template` verwendest, stelle sicher dass alle Branches inkludiert sind. Dann erhälst du direkt einen leeren Assets-Branch.
+
+**Bei vorhandenen oder übertragenen Repos:**
+
 Einen neuen Assets-Branch — z. B. für Screenshots in der README — solltest du besser nicht aus dem vollen Master-Branch heraus erstellen und danach leeren, sondern ihn gleich leer anlegen. Das geht so:
 
 ```
@@ -95,7 +101,6 @@ git checkout --orphan assets
 git rm -rf .
 ```
 
-Wir verwenden einen separaten Assets-Branch, damit spätere Releases keine unnötigen Dateien enthalten.
  
 ### Die Website [friendsofredaxo.github.io](https://friendsofredaxo.github.io) bearbeiten
 
