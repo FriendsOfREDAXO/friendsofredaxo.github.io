@@ -133,6 +133,7 @@
 'xoutputfilter':                {'lead': 'aeberhard'}
 'yform_dropzone':               {'lead': '', 'transferred_at': '2019-04-08'}
 'yform_geo':                    {'lead': ''}
+'yform_mediafile':              {'lead': '', 'transferred_at': '2022-01-06'}
 'yform_geo_osm':                {'lead': 'NGWNGW'}
 'yform_spam_protection':        {'lead': ''}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
