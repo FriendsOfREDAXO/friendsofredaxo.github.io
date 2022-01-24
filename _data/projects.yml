@@ -134,8 +134,9 @@
 'ycom_impersonate':             {'lead': 'skerbis'}
 'yform_dropzone':               {'lead': '', 'transferred_at': '2019-04-08'}
 'yform_geo':                    {'lead': ''}
-'yform_mediafile':              {'lead': 'skerbis', 'transferred_at': '2022-01-06'}
 'yform_geo_osm':                {'lead': 'NGWNGW'}
+'yform_mediafile':              {'lead': 'skerbis', 'transferred_at': '2022-01-06'}
+'yform_quick_edit':             {'lead': 'eaCe', 'transferred_at': '2022-01-23'}
 'yform_spam_protection':        {'lead': ''}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
 'yform_ui':                     {'lead': 'eaCe', 'transferred_at': '2022-01-10'}
