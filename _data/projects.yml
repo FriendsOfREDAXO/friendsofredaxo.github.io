@@ -117,6 +117,7 @@
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'textile_migration':            {'lead': 'joachimdoerr'}
 'theme':                        {'lead': 'DanielWeitenauer'}
+'theme_lock':                   {'lead': 'klxm', 'transferred_at': '2022-02-01'}
 'tinymce4':                     {'lead': 'lexplatt', 'transferred_at': '2018-04-29'}
 'tinymce5':                     {'lead': 'joachimdoerr, alexwenz'}
 'treestructure':                {'lead': 'tgoellner'}
