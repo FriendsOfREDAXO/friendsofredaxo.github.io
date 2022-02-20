@@ -1,5 +1,5 @@
 '2factor_auth':                 {'lead': 'staabm'}
-'accessdenied':                 {'lead': 'Hirbod'}
+'accessdenied':                 {'lead': 'hirbod'}
 'address':                      {'lead': 'phoebusryan'}
 'adminer':                      {'lead': 'gharlan'}
 'analytics':                    {'lead': 'phoebusryan'}
@@ -33,7 +33,7 @@
 'demo_uikit3':                  {'lead': 'skerbis'}
 'developer':                    {'lead': 'gharlan'}
 'dsgvo':                        {'lead': '', 'transferred_at': '2018-06-18'}
-'download':                     {'lead': 'Hirbod'}
+'download':                     {'lead': 'hirbod'}
 'emailobfuscator':              {'lead': 'TobiasKrais'}
 'errormail':                    {'lead': 'skerbis'}
 'experimental':                 {'lead': 'staabm'}
@@ -45,7 +45,7 @@
 'foundation':                   {'lead': 'muenzberg-me'}
 'forcal':                       {'lead': 'skerbis, joachimdoerr'}
 'friendsofredaxo.github.io':    {'lead': ''}
-'frontend_edit':                {'lead': 'Hirbod'}
+'frontend_edit':                {'lead': 'hirbod'}
 'global_settings':              {'lead': 'eaCe'}
 'gloebals':                     {'lead': 'tgoellner'}
 'hyphenator':                   {'lead': 'phoebusryan'}
@@ -65,7 +65,7 @@
 'markitup':                     {'lead': 'schorschy'}
 'matomo':                       {'lead': 'danspringer, skerbis', 'transferred_at': '2019-07-31'}
 'mblock':                       {'lead': 'joachimdoerr'}
-'media_manager_autorewrite':    {'lead': 'Hirbod'}
+'media_manager_autorewrite':    {'lead': 'hirbod'}
 'media_manager_plus':           {'lead': 'mschnieder'}
 'media_srcset':                 {'lead': 'tgoellner'}
 'mediapool_concept':            {'lead': 'thielpeter'}
@@ -77,7 +77,7 @@
 'Modulsammlung':                {'lead': 'olien'}
 'module_preview':               {'lead': 'eaCe', 'transferred_at': '2021-11-08'}
 'multiglossar':                 {'lead': 'dtpop'}
-'multiupload':                  {'lead': 'Hirbod'}
+'multiupload':                  {'lead': 'hirbod'}
 'navbuilder':                   {'lead': 'thielpeter'}
 'navigation_array':             {'lead': 'skerbis'}
 'navigation_factory':           {'lead': ''}
@@ -107,7 +107,7 @@
 'search_it':                    {'lead': 'tyrant88', 'transferred_at': '2017-02-05'}
 'seoinspector':                 {'lead': 'rokitole', 'transferred_at': '2018-03-09'}
 'shell':                        {'lead': 'gharlan'}
-'shoppingcart':                 {'lead': 'Hirbod'}
+'shoppingcart':                 {'lead': 'hirbod'}
 'simple_oauth':                 {'lead': 'dergel'}
 'simple_saml':                  {'lead': 'dergel'}
 'simplestats':                  {'lead': 'staabm'}
@@ -126,7 +126,7 @@
 'twoeg':                        {'lead': 'tgoellner'}
 'ui_tools':                     {'lead': 'elricco'}
 'uikit_collection':             {'lead': 'Markus-GS,skerbis', 'transferred_at': '2018-02-19'}
-'undo':                         {'lead': 'Hirbod'}
+'undo':                         {'lead': 'hirbod'}
 'uploader':                     {'lead': 'IngoWinter'}
 'uppy':                         {'lead': 'joachimdoerr'}
 'urlreplacer':                  {'lead': 'skerbis'}
@@ -147,4 +147,4 @@
 'yrewrite_domain_settings':     {'lead': 'novinet-dsteffen'}
 'yrewrite_one_level':           {'lead': 'schuer'}
 'yrewrite_scheme':              {'lead': 'skerbis'}
-'zip_install':                  {'lead': 'Hirbod'}
+'zip_install':                  {'lead': 'hirbod'}
