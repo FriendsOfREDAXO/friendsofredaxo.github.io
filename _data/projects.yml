@@ -108,6 +108,7 @@
 'redaxo_loader':                {'lead': 'danspringer'}
 'redaxo-mit-bimmelbam':         {'lead': 'schuer'}
 'redaxo-mit-docker':            {'lead': 'schuer'}
+'rex_content':                  {'lead': 'eaCe', 'transferred_at': '2022-10-09'}
 'rexstan':                      {'lead': 'staabm'}
 'search_it':                    {'lead': 'tyrant88', 'transferred_at': '2017-02-05'}
 'seoinspector':                 {'lead': 'rokitole', 'transferred_at': '2018-03-09'}
