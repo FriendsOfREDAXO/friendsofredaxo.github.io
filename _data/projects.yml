@@ -121,6 +121,7 @@
 'spellchecker':                 {'lead': 'dergel'}
 'structure_concept':            {'lead': 'thielpeter'}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
+'svg_sanitizer':                {'lead': 'eaCe', 'transferred_at': '2022-10-14'}
 'textile_migration':            {'lead': 'joachimdoerr'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'theme_lock':                   {'lead': 'skerbis', 'transferred_at': '2022-02-01'}
