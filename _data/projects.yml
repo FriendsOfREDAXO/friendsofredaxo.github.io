@@ -128,6 +128,7 @@
 'theme_lock':                   {'lead': 'skerbis', 'transferred_at': '2022-02-01'}
 'tinymce4':                     {'lead': 'lexplatt', 'transferred_at': '2018-04-29'}
 'tinymce5':                     {'lead': 'joachimdoerr, alexwenz'}
+'transient':                    {'lead': 'eaCe', 'transferred_at': '2022-09-24'}
 'treestructure':                {'lead': 'tgoellner'}
 'tricks':                       {'lead': ''}
 'tui_editor':                   {'lead': 'joachimdoerr, skerbis'}
