@@ -43,7 +43,8 @@
 'export_cleanup':               {'lead': 'VIEWSION'}
 'fa_iconpicker':                {'lead': 'bitshiftersgmbh'}
 'ffmpeg':                       {'lead': 'skerbis', 'transferred_at': '2020-10-13'}
-'feeds':                        {'lead': '', 'transferred_at': '2019-05-09'}
+'feeds':                        {'lead': 'skerbis', 'transferred_at': '2019-05-09'}
+'feeds_twitter':                {'lead': 'skerbis'}
 'flatpickr':                    {'lead': 'skerbis'}
 'focuspoint':                   {'lead': 'christophboecker'}
 'forhtml':                      {'lead': 'skerbis', 'transferred_at': '2023-01-01'}
