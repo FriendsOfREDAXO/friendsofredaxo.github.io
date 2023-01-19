@@ -47,6 +47,7 @@
 'feeds_twitter':                {'lead': 'skerbis'}
 'flatpickr':                    {'lead': 'skerbis'}
 'focuspoint':                   {'lead': 'christophboecker'}
+'for_sa11y':                    {'lead': 'skerbis'}
 'forhtml':                      {'lead': 'skerbis', 'transferred_at': '2023-01-01'}
 'foundation':                   {'lead': ''}
 'forcal':                       {'lead': 'skerbis, joachimdoerr'}
