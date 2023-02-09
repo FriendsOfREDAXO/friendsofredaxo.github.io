@@ -45,6 +45,7 @@
 'ffmpeg':                       {'lead': 'skerbis', 'transferred_at': '2020-10-13'}
 'feeds':                        {'lead': 'skerbis', 'transferred_at': '2019-05-09'}
 'feeds_twitter':                {'lead': 'skerbis'}
+'feeds_github_loader':          {'lead': 'alikmltncl61'}
 'flatpickr':                    {'lead': 'skerbis'}
 'focuspoint':                   {'lead': 'christophboecker'}
 'for_sa11y':                    {'lead': 'skerbis'}
