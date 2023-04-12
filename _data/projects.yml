@@ -135,7 +135,7 @@
 'theme':                        {'lead': 'DanielWeitenauer'}
 'theme_lock':                   {'lead': 'olien', 'transferred_at': '2022-02-01'}
 'tinymce4':                     {'lead': 'lexplatt', 'transferred_at': '2018-04-29'}
-'tinymce5':                     {'lead': 'joachimdoerr, alexwenz'}
+'tinymce':                      {'lead': 'joachimdoerr, alexwenz,dtpop'}
 'transient':                    {'lead': 'eaCe', 'transferred_at': '2022-09-24'}
 'treestructure':                {'lead': 'tgoellner'}
 'tricks':                       {'lead': ''}
