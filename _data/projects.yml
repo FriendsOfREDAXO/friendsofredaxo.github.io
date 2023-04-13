@@ -26,7 +26,7 @@
 'content':                      {'lead': 'eaCe'}
 'cookie_consent':               {'lead': 'bloep'}
 'consent_manager':              {'lead': 'IngoWinter, aeberhard'}
-'cropper':                      {'lead': 'alexwenz,joachimdoerr, skerbis'}
+'cropper':                      {'lead': 'alexwenz'}
 'css_above_the_fold':           {'lead': 'lexplatt', 'transferred_at': '2017-10-01'}
 'demo_addon':                   {'lead': 'aeberhard'}
 'demo_base':                    {'lead': 'polarpixel'}
