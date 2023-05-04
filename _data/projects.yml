@@ -58,6 +58,7 @@
 'github-workflows':             {'lead': 'eaCe'}
 'global_settings':              {'lead': 'eaCe'}
 'gloebals':                     {'lead': 'tgoellner'}
+'graphql':                      {'lead': 'danielplan, EliasBinder'}
 'hyphenator':                   {'lead': 'phoebusryan'}
 'http_header':                  {'lead': 'olien'}
 'httpheader':                   {'lead': 'iceman-fx'}
