@@ -35,6 +35,7 @@
 'demo_onepage':                 {'lead': 'polarpixel'}
 'demo_uikit3':                  {'lead': 'skerbis'}
 'developer':                    {'lead': 'gharlan'}
+'diff_detect':                  {'lead': 'xong', 'transferred_at': '2023-07-11'}
 'dsgvo':                        {'lead': '', 'transferred_at': '2018-06-18'}
 'download':                     {'lead': 'hirbod'}
 'emailobfuscator':              {'lead': 'TobiasKrais'}
