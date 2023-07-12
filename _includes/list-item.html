@@ -2,7 +2,7 @@
 {% assign isarchived = repository.archived %}
 {% capture created %} {{ repository.created_at | date: '%s'}} {% endcapture %}
 {% capture transferred %} {{ site.data.projects[repository.name].transferred_at | date: '%s'}} {% endcapture %}
-{% capture duedate %} {{ 'now' | date: '%s' | minus: '5184000' }} {% endcapture %}
+{% capture duedate %} {{ 'now' | date: '%s' | minus: '8640000' }} {% endcapture %}
 
 {% if transferred and transferred > duedate %}
     {% assign isnew = true %}
