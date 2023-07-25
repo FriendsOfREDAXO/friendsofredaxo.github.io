@@ -118,7 +118,7 @@
 'redaxo-in-rome':               {'lead': 'schuer'}
 'redaxo_loader':                {'lead': 'danspringer'}
 'redaxo-mit-bimmelbam':         {'lead': ''}
-'redaxo-mit-docker':            {'lead': 'schuer'}
+'redaxo-mit-docker':            {'lead': ''}
 'restapi':                      {'lead': 'dergel'}
 'rex_content':                  {'lead': 'eaCe', 'transferred_at': '2022-10-09'}
 'rex_gitapi':                   {'lead': 'aeberhard'}
