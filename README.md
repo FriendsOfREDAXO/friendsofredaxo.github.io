@@ -109,11 +109,11 @@ git rm -rf .
 ### Archivieren von Addons und Repository
 
 1. Bevor das Repo archiviert wird, überprüfen, ob PRs offen sind und deren Autoren informieren: Aus Höflichkeit.
-3. In der README.md darauf hinweisen und ggf. eine Alternative empfehlen.
-4. In der Repo-Beschreibung schreiben "Dieses Addon wird nicht mehr gewartet" und ggf. eine Alternative empfehlen
-5. Im Installer die Beschreibung anpassen und darauf hinweisen, dass dieses Addon nicht mehr gewartet wird und ggf. eine Alternative empfehlen.
-6. Offene Issues als "wontfix" taggen und schließen, am besten als"nicht geplant".
-7. Anschließend das Addon-Repository archivieren.
+2. In der README.md darauf hinweisen und ggf. eine Alternative empfehlen.
+3. In der Repo-Beschreibung schreiben "Dieses Addon wird nicht mehr gewartet" und ggf. eine Alternative empfehlen
+4. Im Installer die Beschreibung anpassen und darauf hinweisen, dass dieses Addon nicht mehr gewartet wird und ggf. eine Alternative empfehlen.
+5. Offene Issues als "wontfix" taggen und schließen, am besten als"nicht geplant".
+6. Anschließend das Addon-Repository archivieren.
 
 
  
