@@ -125,3 +125,8 @@ Einfache Anpassungen kannst du direkt an den Dateien im Repo vornehmen. Etwa um 
 Eine Anleitung, die du die Website lokal einrichtest, findest du in der [SETUP.md](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io/blob/master/SETUP.md).
 
 Viele weitere Infos zum Thema findest du hier: [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/).
+
+## Zusätzlicher Dank
+
+* Wir sind im Open Source Programm von <https://www.docker.com/>
+* Wir nutzen <https://www.browserstack.com/>
