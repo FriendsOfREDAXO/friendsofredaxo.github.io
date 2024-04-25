@@ -29,7 +29,7 @@
 'consent_manager':              {'lead': 'IngoWinter, aeberhard'}
 'cropper':                      {'lead': 'alexwenz'}
 'css_above_the_fold':           {'lead': 'lexplatt', 'transferred_at': '2017-10-01'}
-'d2u_address':                {'lead': 'TobiasKrais', 'transferred_at': '2024-03-18'}
+'d2u_address':                  {'lead': 'TobiasKrais', 'transferred_at': '2024-03-18'}
 'd2u_guestbook':                {'lead': 'TobiasKrais', 'transferred_at': '2024-03-11'}
 'demo_addon':                   {'lead': 'aeberhard'}
 'demo_base':                    {'lead': 'polarpixel'}
@@ -94,6 +94,7 @@
 'modulsuche':                   {'lead': 'danspringer', 'transferred_at': '2022-05-31'}
 'module_preview':               {'lead': 'eaCe', 'transferred_at': '2021-11-08'}
 'multiglossar':                 {'lead': 'dtpop'}
+'multinewsletter':              {'lead': 'TobiasKrais', 'transferred_at': '2024-04-25'}
 'multiupload':                  {'lead': 'hirbod'}
 'navbuilder':                   {'lead': 'thielpeter'}
 'navigation_array':             {'lead': 'skerbis'}
