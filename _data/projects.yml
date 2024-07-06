@@ -179,4 +179,4 @@
 'yrewrite_domain_settings':     {'lead': 'novinet-dsteffen'}
 'yrewrite_one_level':           {'lead': 'schuer'}
 'yrewrite_scheme':              {'lead': 'skerbis'}
-'zip_install':                  {'lead': ''}
+'zip_install':                  {'lead': 'skerbis'}
