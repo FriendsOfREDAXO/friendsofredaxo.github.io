@@ -1,19 +1,19 @@
 '2factor_auth':                 {'lead': 'staabm'}
-'accessdenied':                 {'lead': 'hirbod'}
+'accessdenied':                 {'lead': ''}
 'aceeditor':                    {'lead': 'aeberhard'}
 'activity_log':                 {'lead': 'eaCe', 'transferred_at': '2022-05-01'}
-'address':                      {'lead': 'phoebusryan'}
+'address':                      {'lead': ''}
 'adminer':                      {'lead': 'gharlan'}
-'analytics':                    {'lead': 'phoebusryan'}
-'article_presets':              {'lead': 'phoebusryan'}
-'articlelist':                  {'lead': 'tgoellner'}
+'analytics':                    {'lead': ''}
+'article_presets':              {'lead': ''}
+'articlelist':                  {'lead': ''}
 'aufgaben':                     {'lead': 'olien'}
 'avcal':                        {'lead': 'skerbis'}
 'aw_navigation':                {'lead': 'dtpop'}
 'be_explorer':                  {'lead': 'rkemmere'}
 'be_logger':                    {'lead': 'aeberhard'}
 'be_password':                  {'lead': 'IngoWinter', 'transferred_at': '2017-10-09'}
-'bloecks':                      {'lead': 'tgoellner'}
+'bloecks':                      {'lead': ''}
 'blog':                         {'lead': 'staabm'}
 'bootstrap_helper':             {'lead': 'olien'}
 'bricky':                       {'lead': ''}
@@ -40,7 +40,7 @@
 'developer':                    {'lead': 'gharlan'}
 'diff_detect':                  {'lead': 'xong', 'transferred_at': '2023-07-11'}
 'dsgvo':                        {'lead': '', 'transferred_at': '2018-06-18'}
-'download':                     {'lead': 'hirbod'}
+'download':                     {'lead': ''}
 'emailobfuscator':              {'lead': 'TobiasKrais'}
 'errormail':                    {'lead': 'skerbis'}
 'experimental':                 {'lead': 'staabm'}
@@ -57,13 +57,13 @@
 'foundation':                   {'lead': ''}
 'forcal':                       {'lead': 'skerbis, joachimdoerr'}
 'friendsofredaxo.github.io':    {'lead': ''}
-'frontend_edit':                {'lead': 'hirbod'}
+'frontend_edit':                {'lead': ''}
 'geolocation':                  {'lead': 'christophboecker, skerbis, dtpop', 'transferred_at': '2022-02-20'}
 'github-workflows':             {'lead': 'eaCe'}
 'global_settings':              {'lead': 'eaCe'}
-'gloebals':                     {'lead': 'tgoellner'}
+'gloebals':                     {'lead': ''}
 'graphql':                      {'lead': 'danielplan, EliasBinder'}
-'hyphenator':                   {'lead': 'phoebusryan'}
+'hyphenator':                   {'lead': ''}
 'http_header':                  {'lead': 'olien'}
 'httpheader':                   {'lead': 'iceman-fx'}
 'icecoder':                     {'lead': 'skerbis,staabm'}
@@ -81,9 +81,9 @@
 'markitup':                     {'lead': 'schorschy'}
 'matomo':                       {'lead': 'danspringer, skerbis', 'transferred_at': '2019-07-31'}
 'mblock':                       {'lead': 'joachimdoerr'}
-'media_manager_autorewrite':    {'lead': 'hirbod'}
+'media_manager_autorewrite':    {'lead': ''}
 'media_manager_plus':           {'lead': 'mschnieder'}
-'media_srcset':                 {'lead': 'tgoellner'}
+'media_srcset':                 {'lead': ''}
 'mediapool_concept':            {'lead': 'thielpeter'}
 'mediapool_exif':               {'lead': 'akrys'}
 'mform':                        {'lead': 'joachimdoerr'}
@@ -91,13 +91,13 @@
 'minibar':                      {'lead': 'staabm, skerbis'}
 'minibar_time_track':           {'lead': 'skerbis'}
 'minify':                       {'lead': 'pschuchmann'}
-'minify_images':                {'lead': 'phoebusryan'}
+'minify_images':                {'lead': ''}
 'Modulsammlung':                {'lead': 'olien'}
 'modulsuche':                   {'lead': 'danspringer', 'transferred_at': '2022-05-31'}
 'module_preview':               {'lead': 'eaCe', 'transferred_at': '2021-11-08'}
 'multiglossar':                 {'lead': 'dtpop'}
 'multinewsletter':              {'lead': 'TobiasKrais', 'transferred_at': '2024-04-25'}
-'multiupload':                  {'lead': 'hirbod'}
+'multiupload':                  {'lead': ''}
 'navbuilder':                   {'lead': 'thielpeter'}
 'navigation_array':             {'lead': 'skerbis'}
 'navigation_factory':           {'lead': ''}
@@ -118,7 +118,7 @@
 'pwa':                          {'lead': 'olien'}
 'quick_navigation':             {'lead': 'skerbis'}
 'redactor':                     {'lead': 'tbaddade'}
-'redactor2':                    {'lead': 'phoebusryan'}
+'redactor2':                    {'lead': ''}
 'redaxo.docset':                {'lead': 'gorkarod'}
 'redaxo-in-a-parcel':           {'lead': 'schuer'}
 'redaxo-in-rome':               {'lead': 'schuer'}
@@ -133,7 +133,7 @@
 'search_it':                    {'lead': 'tyrant88', 'transferred_at': '2017-02-05'}
 'seoinspector':                 {'lead': 'rokitole', 'transferred_at': '2018-03-09'}
 'shell':                        {'lead': 'gharlan'}
-'shoppingcart':                 {'lead': 'hirbod'}
+'shoppingcart':                 {'lead': ''}
 'simple_oauth':                 {'lead': 'dergel'}
 'simple_saml':                  {'lead': 'dergel'}
 'simplestats':                  {'lead': 'staabm'}
@@ -149,17 +149,17 @@
 'tinymce4':                     {'lead': 'lexplatt', 'transferred_at': '2018-04-29'}
 'tinymce':                      {'lead': 'joachimdoerr, alexwenz,dtpop'}
 'transient':                    {'lead': 'eaCe', 'transferred_at': '2022-09-24'}
-'treestructure':                {'lead': 'tgoellner'}
+'treestructure':                {'lead': ''}
 'tricks':                       {'lead': ''}
 'tui_editor':                   {'lead': 'joachimdoerr, skerbis'}
-'twoeg':                        {'lead': 'tgoellner'}
+'twoeg':                        {'lead': ''}
 'ui_tools':                     {'lead': 'elricco'}
 'uikit_collection':             {'lead': 'Markus-GS,skerbis', 'transferred_at': '2018-02-19'}
-'undo':                         {'lead': 'hirbod'}
+'undo':                         {'lead': ''}
 'uploader':                     {'lead': 'IngoWinter'}
 'uppy':                         {'lead': 'joachimdoerr'}
 'urlreplacer':                  {'lead': 'skerbis'}
-'useragent':                    {'lead': 'phoebusryan'}
+'useragent':                    {'lead': ''}
 'vanilla':                      {'lead': 'eaCe', 'transferred_at': '2023-01-09'}
 'webdav':                       {'lead': 'staabm'}
 'xcore':                        {'lead': ''}
@@ -179,4 +179,4 @@
 'yrewrite_domain_settings':     {'lead': 'novinet-dsteffen'}
 'yrewrite_one_level':           {'lead': 'schuer'}
 'yrewrite_scheme':              {'lead': 'skerbis'}
-'zip_install':                  {'lead': 'hirbod'}
+'zip_install':                  {'lead': ''}
