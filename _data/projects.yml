@@ -1,5 +1,5 @@
 '2factor_auth':                 {'lead': 'staabm'}
-'accessdenied':                 {'lead': ''}
+'accessdenied':                 {'lead': 'alxndr-w, skerbis'}
 'aceeditor':                    {'lead': 'aeberhard'}
 'activity_log':                 {'lead': 'eaCe', 'transferred_at': '2022-05-01'}
 'address':                      {'lead': ''}
@@ -172,7 +172,7 @@
 'yform_geo_osm':                {'lead': 'NGWNGW'}
 'yform_mediafile':              {'lead': 'skerbis', 'transferred_at': '2022-01-06'}
 'yform_quick_edit':             {'lead': 'eaCe', 'transferred_at': '2022-01-23'}
-'yform_spam_protection':        {'lead': ''}
+'yform_spam_protection':        {'lead': 'alxndr-w'}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
 'yform_ui':                     {'lead': 'eaCe', 'transferred_at': '2022-01-10'}
 'yform_usability':              {'lead': 'lexplatt', 'transferred_at': '2017-02-09'}
