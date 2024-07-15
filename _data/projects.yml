@@ -10,6 +10,7 @@
 'aufgaben':                     {'lead': 'olien'}
 'avcal':                        {'lead': 'skerbis'}
 'aw_navigation':                {'lead': 'dtpop'}
+'base_quality_check'            {'lead': 'olien'}
 'be_explorer':                  {'lead': 'rkemmere'}
 'be_logger':                    {'lead': 'aeberhard'}
 'be_password':                  {'lead': 'IngoWinter', 'transferred_at': '2017-10-09'}
