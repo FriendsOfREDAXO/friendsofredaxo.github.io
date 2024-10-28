@@ -105,6 +105,7 @@
 'navigation_factory':           {'lead': ''}
 'neues':                        {'lead': 'alxndr-w', 'transferred_at': '2024-01-01'}
 'newsmanager':                  {'lead': 'georgkaser'}
+'nv_defaultaddons':             {'lead': 'alxndr-w', 'transferred_at': '2024-10-28'}
 'osmproxy':                     {'lead': 'skerbis'}
 'out5':                         {'lead': 'olien'}
 'parameter_rewrite':            {'lead': 'thielpeter'}
@@ -164,11 +165,11 @@
 'useragent':                    {'lead': ''}
 'vanilla':                      {'lead': 'eaCe', 'transferred_at': '2023-01-09'}
 'vidstack':                     {'lead': 'skerbis', 'transferred_at': '2024-09-27'}
-'warehouse':                    {'lead': 'dtpop', 'transferred_at': '2024-10-15'}
+'warehouse':                    {'lead': 'alxndr-w', 'transferred_at': '2024-10-15'}
 'webdav':                       {'lead': 'staabm'}
 'xcore':                        {'lead': ''}
 'xoutputfilter':                {'lead': 'aeberhard'}
-'ycom_board':                   {'lead': 'dtpop', 'transferred_at': '2024-10-15'}
+'ycom_board':                   {'lead': 'alxndr-w', 'transferred_at': '2024-10-15'}
 'ycom_impersonate':             {'lead': 'skerbis'}
 'yform_adminer':                {'lead': 'christophboecker'}
 'yform_calendar':               {'lead': 'skerbis'}
