@@ -147,6 +147,7 @@
 'structure_concept':            {'lead': 'thielpeter'}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'svg_sanitizer':                {'lead': 'eaCe', 'transferred_at': '2022-10-14'}
+'symfony_mailer':               {'lead': 'skerbis'}
 'textile_migration':            {'lead': 'joachimdoerr'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'theme_lock':                   {'lead': 'olien', 'transferred_at': '2022-02-01'}
