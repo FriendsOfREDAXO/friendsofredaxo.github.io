@@ -148,6 +148,7 @@
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'svg_sanitizer':                {'lead': 'eaCe', 'transferred_at': '2022-10-14'}
 'symfony_mailer':               {'lead': 'skerbis'}
+'table_migrator':               {'lead': 'skerbis', 'transferred_at': '2025-01-27'}
 'textile_migration':            {'lead': 'joachimdoerr'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'theme_lock':                   {'lead': 'olien', 'transferred_at': '2022-02-01'}
