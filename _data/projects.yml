@@ -44,6 +44,7 @@
 'dsgvo':                        {'lead': '', 'transferred_at': '2018-06-18'}
 'download':                     {'lead': ''}
 'emailobfuscator':              {'lead': 'TobiasKrais'}
+'erecht24':                     {'lead': 'skerbis'}
 'errormail':                    {'lead': 'skerbis'}
 'experimental':                 {'lead': 'staabm'}
 'export_cleanup':               {'lead': 'VIEWSION'}
