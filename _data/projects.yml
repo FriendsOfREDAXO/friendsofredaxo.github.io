@@ -67,6 +67,7 @@
 'github-workflows':             {'lead': 'eaCe'}
 'global_settings':              {'lead': 'eaCe'}
 'gloebals':                     {'lead': ''}
+'googleplaces':                 {'lead': 'alexplusde', 'transferred_at': '2025-02-07'}
 'graphql':                      {'lead': 'danielplan, EliasBinder'}
 'hyphenator':                   {'lead': ''}
 'http_header':                  {'lead': 'olien'}
