@@ -67,7 +67,7 @@
 'github-workflows':             {'lead': 'eaCe'}
 'global_settings':              {'lead': 'eaCe'}
 'gloebals':                     {'lead': ''}
-'googleplaces':                 {'lead': 'alexplusde', 'transferred_at': '2025-02-07'}
+'googleplaces':                 {'lead': '', 'transferred_at': '2025-02-07'}
 'graphql':                      {'lead': 'danielplan, EliasBinder'}
 'hyphenator':                   {'lead': ''}
 'http_header':                  {'lead': 'olien'}
@@ -107,8 +107,8 @@
 'navbuilder':                   {'lead': 'thielpeter'}
 'navigation_array':             {'lead': 'skerbis'}
 'navigation_factory':           {'lead': ''}
-'neues':                        {'lead': 'alxndr-w', 'transferred_at': '2024-01-01'}
-'neues_structure':              {'lead': 'alxndr-w', 'transferred_at': '2025-02-01'}
+'neues':                        {'lead': '', 'transferred_at': '2024-01-01'}
+'neues_structure':              {'lead': '', 'transferred_at': '2025-02-01'}
 'newsmanager':                  {'lead': 'georgkaser'}
 'nv_defaultaddons':             {'lead': '', 'transferred_at': '2024-10-28'}
 'osmproxy':                     {'lead': 'skerbis'}
@@ -125,7 +125,7 @@
 'properties':                   {'lead': 'aeberhard'}
 'pwa':                          {'lead': 'olien'}
 'quick_navigation':             {'lead': 'skerbis'}
-'redactor':                     {'lead': 'tbaddade,alxndr-w'}
+'redactor':                     {'lead': 'tbaddade'}
 'redactor2':                    {'lead': ''}
 'redaxo.docset':                {'lead': 'gorkarod'}
 'redaxo-in-a-parcel':           {'lead': 'schuer'}
@@ -176,11 +176,11 @@
 'vidstack':                     {'lead': 'skerbis', 'transferred_at': '2024-09-27'}
 'videopreview':                 {'lead': 'skerbis'}
 'warehouse':                    {'lead': 'alxndr-w', 'transferred_at': '2024-10-15'}
-'wildcard':                     {'lead': 'alxndr-w', 'transferred_at': '2024-12-30'}
+'wildcard':                     {'lead': '', 'transferred_at': '2024-12-30'}
 'webdav':                       {'lead': 'staabm'}
 'xcore':                        {'lead': ''}
 'xoutputfilter':                {'lead': 'aeberhard'}
-'ycom_board':                   {'lead': 'alxndr-w', 'transferred_at': '2024-10-15'}
+'ycom_board':                   {'lead': '', 'transferred_at': '2024-10-15'}
 'ycom_login_as':                {'lead': 'skerbis'}
 'yform_adminer':                {'lead': 'christophboecker'}
 'yform_calendar':               {'lead': 'skerbis'}
