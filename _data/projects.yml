@@ -110,6 +110,7 @@
 'neues':                        {'lead': '', 'transferred_at': '2024-01-01'}
 'neues_structure':              {'lead': '', 'transferred_at': '2025-02-01'}
 'newsmanager':                  {'lead': 'georgkaser'}
+'nextcloud':                    {'lead': 'klxm,skerbis', 'transferred_at': '2025-08-04'}
 'nv_defaultaddons':             {'lead': '', 'transferred_at': '2024-10-28'}
 'osmproxy':                     {'lead': 'skerbis'}
 'out5':                         {'lead': 'olien'}
