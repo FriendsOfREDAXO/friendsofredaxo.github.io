@@ -10,7 +10,7 @@
     {% assign isnew = true %}
 {% endif %}
 
-<li class="highscore__item{% if isarchived %} highscore__item--archived{% endif %}">
+<li class="highscore__item {% if isarchived %}highscore__item--archived{% endif %} {% if isnew %}highscore__item--new{% endif %}">
     <div class="highscore__item-col highscore__item-col--1">
 
 {% assign leads = site.data.projects[repository.name].lead | split: "," | default: " " %}
