@@ -83,6 +83,7 @@
 'linter':                       {'lead': 'staabm'}
 'login_neon':                   {'lead': ''}
 'lottie':                       {'lead': 'danspringer'}
+'mail_tools':                   {'lead': 'skerbis,crydotsnake'}
 'maintenance':                  {'lead': 'skerbis,crydotsnake'}
 'markitup':                     {'lead': ''}
 'matomo':                       {'lead': 'danspringer, skerbis', 'transferred_at': '2019-07-31'}
@@ -156,12 +157,14 @@
 'svg_sanitizer':                {'lead': 'eaCe', 'transferred_at': '2022-10-14'}
 'symfony_mailer':               {'lead': 'skerbis'}
 'table_migrator':               {'lead': 'skerbis', 'transferred_at': '2025-01-27'}
+'template_manager':             {'lead': 'skerbis'}
 'textile_migration':            {'lead': 'joachimdoerr'}
 'theme':                        {'lead': 'DanielWeitenauer'}
 'theme_lock':                   {'lead': 'olien', 'transferred_at': '2022-02-01'}
 'thumbhash':                    {'lead': 'aeberhard'}
 'tinymce4':                     {'lead': 'lexplatt', 'transferred_at': '2018-04-29'}
-'tinymce':                      {'lead': 'joachimdoerr, alexwenz,dtpop'}
+'tinymce':                      {'lead': 'joachimdoerr,alexwenz,dtpop,skerbis'}
+'tinymce_uikit':                {'lead': 'skerbis'}
 'transient':                    {'lead': 'eaCe', 'transferred_at': '2022-09-24'}
 'trash':                        {'lead': 'skerbis', 'transferred_at': '2025-04-09'}
 'treestructure':                {'lead': ''}
@@ -178,6 +181,7 @@
 'vanilla':                      {'lead': 'eaCe', 'transferred_at': '2023-01-09'}
 'vidstack':                     {'lead': 'skerbis', 'transferred_at': '2024-09-27'}
 'videopreview':                 {'lead': 'skerbis'}
+'writeassist':                 {'lead': 'skerbis'}
 'warehouse':                    {'lead': 'alxndr-w', 'transferred_at': '2024-10-15'}
 'webdav':                       {'lead': 'staabm'}
 'xcore':                        {'lead': ''}
