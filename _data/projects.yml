@@ -196,6 +196,7 @@
 'yform_geo_osm':                {'lead': ''}
 'yform_mediafile':              {'lead': 'skerbis', 'transferred_at': '2022-01-06'}
 'yform_quick_edit':             {'lead': 'eaCe', 'transferred_at': '2022-01-23'}
+'yform_saved_filters':           {'lead': 'skerbis'}
 'yform_spam_protection':        {'lead': ''}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
 'yform_ui':                     {'lead': 'eaCe', 'transferred_at': '2022-01-10'}
