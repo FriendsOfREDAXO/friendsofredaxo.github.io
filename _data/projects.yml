@@ -81,6 +81,7 @@
 'linkchecker':                  {'lead': 'olien'}
 'linkmap_concept':              {'lead': 'thielpeter'}
 'linter':                       {'lead': 'staabm'}
+'live_preview':                 {'lead': 'skerbis'}
 'login_neon':                   {'lead': ''}
 'lottie':                       {'lead': 'danspringer'}
 'mail_tools':                   {'lead': 'skerbis,crydotsnake'}
@@ -152,6 +153,7 @@
 'simple_saml':                  {'lead': 'dergel'}
 'simplestats':                  {'lead': 'staabm'}
 'slice_columns':                {'lead': 'AndiLeni'}
+'snippets':                     {'lead': 'skerbis'}
 'spellchecker':                 {'lead': 'dergel'}
 'structure_concept':            {'lead': 'thielpeter'}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
@@ -192,6 +194,7 @@
 'yform_adminer':                {'lead': 'christophboecker'}
 'yform_calendar':               {'lead': 'skerbis'}
 'yform_dropzone':               {'lead': '', 'transferred_at': '2019-04-08'}
+'yform_encryption':             {'lead': 'skerbis'}
 'yform_export':                 {'lead': 'eaCe', 'transferred_at': '2022-05-27'}
 'yform_geo':                    {'lead': ''}
 'yform_geo_osm':                {'lead': ''}
