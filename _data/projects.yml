@@ -155,6 +155,7 @@
 'slice_columns':                {'lead': 'AndiLeni'}
 'snippets':                     {'lead': 'skerbis'}
 'spellchecker':                 {'lead': 'dergel'}
+'statistics':                   {'lead': 'tobiaskrais'}
 'structure_concept':            {'lead': 'thielpeter'}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'svg_sanitizer':                {'lead': 'eaCe', 'transferred_at': '2022-10-14'}
