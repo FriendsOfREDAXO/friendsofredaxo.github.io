@@ -1,4 +1,5 @@
 '2factor_auth':                 {'lead': 'staabm'}
+'ab_tests':                     {'lead': 'olien'}
 'accessdenied':                 {'lead': 'skerbis'}
 'aceeditor':                    {'lead': 'aeberhard'}
 'activity_log':                 {'lead': 'eaCe', 'transferred_at': '2022-05-01'}
@@ -77,6 +78,7 @@
 'insert_text':                  {'lead': 'mizmiz, aeberhard', 'transferred_at': '2021-12-08'}
 'installer-action':             {'lead': 'bloep'}
 'jobs':                         {'lead': 'TobiasKrais', 'transferred_at': '2024-05-26'}
+'jsonld_manager':               {'lead': 'olien'}
 'lightgallery':                 {'lead': 'gseilheimer'}
 'linkchecker':                  {'lead': 'olien'}
 'linkmap_concept':              {'lead': 'thielpeter'}
