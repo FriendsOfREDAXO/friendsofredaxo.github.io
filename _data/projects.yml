@@ -98,7 +98,7 @@
 'mediapool_exif':               {'lead': 'akrys'}
 'mediapool_tools':              {'lead': ''}
 'metainfo_lang_fields':         {'lead': 'skerbis'}
-'mform':                        {'lead': 'joachimdoerr'}
+'mform':                        {'lead': 'joachimdoerr,skerbis'}
 'mfragment':                    {'lead': 'joachimdoerr'}
 'minibar':                      {'lead': 'staabm, skerbis'}
 'minibar_time_track':           {'lead': 'skerbis'}
