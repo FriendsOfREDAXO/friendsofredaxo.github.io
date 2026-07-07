@@ -10,15 +10,16 @@
 'articlelist':                  {'lead': ''}
 'asset_import':                 {'lead': 'skerbis'}
 'aufgaben':                     {'lead': 'olien'}
-'avcal':                        {'lead': 'skerbis'}
+'avcal':                        {'lead': ''}
 'aw_navigation':                {'lead': 'dtpop'}
 'base_quality_check':           {'lead': 'olien'}
 'be_explorer':                  {'lead': 'rkemmere'}
 'be_logger':                    {'lead': 'aeberhard'}
 'be_password':                  {'lead': '', 'transferred_at': '2025-02-10'}
-'bloecks':                      {'lead': 'skerbis'}
+'bloecks':                      {'lead': ''}
 'blog':                         {'lead': 'staabm'}
 'bootstrap_helper':             {'lead': 'olien'}
+'builder':                      {'lead': 'skerbis'}
 'bricky':                       {'lead': ''}
 'cache_warmup':                 {'lead': ''}
 'cke5':                         {'lead': 'joachimdoerr, skerbis'}
@@ -86,7 +87,8 @@
 'live_preview':                 {'lead': 'skerbis'}
 'login_neon':                   {'lead': ''}
 'lottie':                       {'lead': 'danspringer'}
-'mail_tools':                   {'lead': 'skerbis,crydotsnake'}
+'mail_tools':                   {'lead': 'skerbis'}
+'mailjet_connect':              {'lead': 'skerbis'}
 'maintenance':                  {'lead': 'skerbis,crydotsnake'}
 'markitup':                     {'lead': ''}
 'matomo':                       {'lead': 'danspringer, skerbis', 'transferred_at': '2019-07-31'}
@@ -101,7 +103,7 @@
 'mform':                        {'lead': 'joachimdoerr,skerbis'}
 'mfragment':                    {'lead': 'joachimdoerr'}
 'minibar':                      {'lead': 'staabm, skerbis'}
-'minibar_time_track':           {'lead': 'skerbis'}
+'minibar_time_track':           {'lead': ''}
 'minify':                       {'lead': 'pschuchmann'}
 'minify_images':                {'lead': ''}
 'Modulsammlung':                {'lead': 'olien'}
@@ -118,7 +120,7 @@
 'newsmanager':                  {'lead': 'georgkaser'}
 'nextcloud':                    {'lead': 'klxm,skerbis', 'transferred_at': '2025-08-04'}
 'nv_defaultaddons':             {'lead': '', 'transferred_at': '2024-10-28'}
-'osmproxy':                     {'lead': 'skerbis'}
+'osmproxy':                     {'lead': ''}
 'out5':                         {'lead': 'olien'}
 'parameter_rewrite':            {'lead': 'thielpeter'}
 'pdfout':                       {'lead': 'skerbis'}
@@ -126,7 +128,7 @@
 'photoswipe':                   {'lead': 'gseilheimer'}
 'phpdoc':                       {'lead': 'bloep'}
 'piwik':                        {'lead': 'gseilheimer'}
-'plyr':                         {'lead': 'skerbis'}
+'plyr':                         {'lead': ''}
 'poll':                         {'lead': 'dergel'}
 'project_manager':              {'lead': 'rkemmere'}
 'properties':                   {'lead': 'aeberhard'}
