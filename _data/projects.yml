@@ -40,7 +40,7 @@
 'demo_community':               {'lead': 'polarpixel'}
 'demo_fullpage':                {'lead': 'aeberhard'}
 'demo_onepage':                 {'lead': 'polarpixel'}
-'demo_uikit3':                  {'lead': 'skerbis'}
+'demo_uikit3':                  {'lead': ''}
 'developer':                    {'lead': 'gharlan'}
 'diff_detect':                  {'lead': 'xong', 'transferred_at': '2023-07-11'}
 'dsgvo':                        {'lead': '', 'transferred_at': '2018-06-18'}
@@ -55,6 +55,7 @@
 'feeds':                        {'lead': 'skerbis', 'transferred_at': '2019-05-09'}
 'feeds_twitter':                {'lead': 'skerbis'}
 'feeds_github_loader':          {'lead': 'alikmltncl61'}
+'fields':                       {'lead': 'skerbis'}
 'flatpickr':                    {'lead': 'eaCe'}
 'focuspoint':                   {'lead': 'christophboecker'}
 'for_sa11y':                    {'lead': 'skerbis'}
@@ -64,7 +65,7 @@
 'forcal':                       {'lead': 'skerbis, joachimdoerr'}
 'friendsofredaxo.github.io':    {'lead': ''}
 'frontend_edit':                {'lead': ''}
-'geolocation':                  {'lead': 'christophboecker, skerbis, dtpop', 'transferred_at': '2022-02-20'}
+'geolocation':                  {'lead': 'christophboecker, dtpop', 'transferred_at': '2022-02-20'}
 'googleplaces':    	            {'lead': 'TobiasKrais', 'transferred_at': '2025-02-07'}
 'github-workflows':             {'lead': 'eaCe'}
 'global_settings':              {'lead': 'eaCe'}
@@ -96,6 +97,7 @@
 'media_manager_autorewrite':    {'lead': ''}
 'media_manager_plus':           {'lead': 'mschnieder'}
 'media_srcset':                 {'lead': ''}
+'mediaplace':                   {'lead': 'skerbis'}
 'mediapool_concept':            {'lead': 'thielpeter'}
 'mediapool_exif':               {'lead': 'akrys'}
 'mediapool_tools':              {'lead': ''}
@@ -143,7 +145,7 @@
 'redaxo_loader':                {'lead': 'danspringer'}
 'redaxo-mit-bimmelbam':         {'lead': ''}
 'redaxo-mit-docker':            {'lead': ''}
-'relation_select':              {'lead': 'polarpixel, skerbis'}
+'relation_select':              {'lead': 'polarpixel'}
 'restapi':                      {'lead': 'dergel'}
 'rex_content':                  {'lead': 'eaCe', 'transferred_at': '2022-10-09'}
 'rex_gitapi':                   {'lead': 'aeberhard'}
@@ -172,15 +174,15 @@
 'thumbhash':                    {'lead': 'aeberhard'}
 'tinymce4':                     {'lead': 'lexplatt', 'transferred_at': '2018-04-29'}
 'tinymce':                      {'lead': 'joachimdoerr,alexwenz,dtpop,skerbis'}
-'tinymce_uikit':                {'lead': 'skerbis'}
+'tinymce_uikit':                {'lead': ''}
 'transient':                    {'lead': 'eaCe', 'transferred_at': '2022-09-24'}
 'trash':                        {'lead': 'skerbis', 'transferred_at': '2025-04-09'}
 'treestructure':                {'lead': ''}
 'tricks':                       {'lead': ''}
-'tui_editor':                   {'lead': 'joachimdoerr, skerbis'}
+'tui_editor':                   {'lead': 'joachimdoerr'}
 'twoeg':                        {'lead': ''}
 'ui_tools':                     {'lead': 'elricco'}
-'uikit_collection':             {'lead': 'Markus-GS,skerbis', 'transferred_at': '2018-02-19'}
+'uikit_collection':             {'lead': 'Markus-GS', 'transferred_at': '2018-02-19'}
 'undo':                         {'lead': 'skerbis'}
 'uploader':                     {'lead': 'IngoWinter'}
 'uppy':                         {'lead': 'joachimdoerr, skerbis'}
@@ -203,7 +205,7 @@
 'yform_export':                 {'lead': 'eaCe', 'transferred_at': '2022-05-27'}
 'yform_geo':                    {'lead': ''}
 'yform_geo_osm':                {'lead': ''}
-'yform_mediafile':              {'lead': 'skerbis', 'transferred_at': '2022-01-06'}
+'yform_mediafile':              {'lead': '', 'transferred_at': '2022-01-06'}
 'yform_quick_edit':             {'lead': 'eaCe', 'transferred_at': '2022-01-23'}
 'yform_saved_filters':           {'lead': 'skerbis'}
 'yform_spam_protection':        {'lead': ''}
