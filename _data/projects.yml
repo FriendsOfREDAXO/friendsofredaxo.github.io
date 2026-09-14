@@ -4,6 +4,7 @@
 'aceeditor':                    {'lead': 'aeberhard'}
 'activity_log':                 {'lead': 'eaCe', 'transferred_at': '2022-05-01'}
 'address':                      {'lead': ''}
+'a11y_datetime':                {'lead': ''}
 'adminer':                      {'lead': 'gharlan'}
 'analytics':                    {'lead': ''}
 'article_presets':              {'lead': ''}
@@ -56,10 +57,10 @@
 'feeds_twitter':                {'lead': 'skerbis'}
 'feeds_github_loader':          {'lead': 'alikmltncl61'}
 'fields':                       {'lead': 'skerbis'}
-'flatpickr':                    {'lead': 'eaCe'}
+'flatpickr':                    {'lead': ''}
 'focuspoint':                   {'lead': 'christophboecker'}
 'for_sa11y':                    {'lead': 'skerbis'}
-'forhtml':                      {'lead': 'skerbis', 'transferred_at': '2023-01-01'}
+'forhtml':                      {'lead': '', 'transferred_at': '2023-01-01'}
 'formslider':                   {'lead': 'elricco, skerbis', 'transferred_at': '2024-07-30'}
 'foundation':                   {'lead': ''}
 'forcal':                       {'lead': 'skerbis, joachimdoerr'}
@@ -159,7 +160,7 @@
 'simple_saml':                  {'lead': 'dergel'}
 'simplestats':                  {'lead': 'staabm'}
 'slice_columns':                {'lead': 'AndiLeni'}
-'snippets':                     {'lead': 'skerbis'}
+'snippets':                     {'lead': 'skerbis,aeberhard'}
 'spellchecker':                 {'lead': 'dergel'}
 'statistics':                   {'lead': 'tobiaskrais'}
 'structure_concept':            {'lead': 'thielpeter'}
@@ -207,7 +208,7 @@
 'yform_geo_osm':                {'lead': ''}
 'yform_mediafile':              {'lead': '', 'transferred_at': '2022-01-06'}
 'yform_quick_edit':             {'lead': 'eaCe', 'transferred_at': '2022-01-23'}
-'yform_saved_filters':           {'lead': 'skerbis'}
+'yform_saved_filters':          {'lead': 'skerbis'}
 'yform_spam_protection':        {'lead': ''}
 'yform_standalone_validator':   {'lead': 'NGWNGW'}
 'yform_ui':                     {'lead': 'eaCe', 'transferred_at': '2022-01-10'}
@@ -215,5 +216,5 @@
 'yrewrite_domain_settings':     {'lead': 'marcohanke'}
 'yrewrite_metainfo':            {'lead': 'alxndr-w', 'transferred_at': '2024-08-09'}
 'yrewrite_one_level':           {'lead': 'schuer'}
-'yrewrite_scheme':              {'lead': 'skerbis'}
+'yrewrite_scheme':              {'lead': ''}
 'zip_install':                  {'lead': 'skerbis'}
