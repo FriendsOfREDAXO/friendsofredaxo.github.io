@@ -32,6 +32,7 @@
 'content':                      {'lead': 'eaCe'}
 'cookie_consent':               {'lead': 'bloep'}
 'consent_manager':              {'lead': 'IngoWinter, aeberhard, skerbis'}
+'consent_kit':                  {'lead': ''}
 'cropper':                      {'lead': 'alexwenz'}
 'css_above_the_fold':           {'lead': 'lexplatt,skerbis', 'transferred_at': '2017-10-01'}
 'd2u_address':                  {'lead': 'TobiasKrais', 'transferred_at': '2024-03-18'}
@@ -48,13 +49,13 @@
 'download':                     {'lead': ''}
 'emailobfuscator':              {'lead': 'TobiasKrais'}
 'erecht24':                     {'lead': 'skerbis,marcohanke'}
-'errormail':                    {'lead': 'skerbis'}
+'errormail':                    {'lead': ''}
 'experimental':                 {'lead': 'staabm'}
 'export_cleanup':               {'lead': 'VIEWSION'}
 'fa_iconpicker':                {'lead': 'bitshiftersgmbh'}
 'ffmpeg':                       {'lead': 'skerbis', 'transferred_at': '2020-10-13'}
-'feeds':                        {'lead': 'skerbis', 'transferred_at': '2019-05-09'}
-'feeds_twitter':                {'lead': 'skerbis'}
+'feeds':                        {'lead': '', 'transferred_at': '2019-05-09'}
+'feeds_twitter':                {'lead': ''}
 'feeds_github_loader':          {'lead': 'alikmltncl61'}
 'fields':                       {'lead': 'skerbis'}
 'filepond_uploader':            {'lead': 'skerbis'}
