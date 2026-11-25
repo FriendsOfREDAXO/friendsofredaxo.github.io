@@ -5,7 +5,7 @@
 'activity_log':                 {'lead': 'eaCe', 'transferred_at': '2022-05-01'}
 'address':                      {'lead': ''}
 'a11y_datetime':                {'lead': ''}
-'adminer':                      {'lead': 'gharlan'}
+'adminer':                      {'lead': 'gharlan,skerbis'}
 'analytics':                    {'lead': ''}
 'article_presets':              {'lead': ''}
 'articlelist':                  {'lead': ''}
@@ -34,7 +34,7 @@
 'consent_manager':              {'lead': 'IngoWinter, aeberhard'}
 'consent_kit':                  {'lead': 'skerbis'}
 'cropper':                      {'lead': 'alexwenz'}
-'css_above_the_fold':           {'lead': 'lexplatt,skerbis', 'transferred_at': '2017-10-01'}
+'css_above_the_fold':           {'lead': '', 'transferred_at': '2017-10-01'}
 'd2u_address':                  {'lead': 'TobiasKrais', 'transferred_at': '2024-03-18'}
 'd2u_guestbook':                {'lead': 'TobiasKrais', 'transferred_at': '2024-03-11'}
 'demo_addon':                   {'lead': 'aeberhard'}
@@ -124,7 +124,7 @@
 'neues':                        {'lead': '', 'transferred_at': '2024-01-01'}
 'neues_structure':              {'lead': '', 'transferred_at': '2025-02-01'}
 'newsmanager':                  {'lead': 'georgkaser'}
-'nextcloud':                    {'lead': 'klxm,skerbis', 'transferred_at': '2025-08-04'}
+'nextcloud':                    {'lead': 'skerbis', 'transferred_at': '2025-08-04'}
 'nv_defaultaddons':             {'lead': '', 'transferred_at': '2024-10-28'}
 'osmproxy':                     {'lead': ''}
 'out5':                         {'lead': 'olien'}
@@ -169,7 +169,7 @@
 'structure_concept':            {'lead': 'thielpeter'}
 'structure_tweaks':             {'lead': 'DanielWeitenauer'}
 'svg_sanitizer':                {'lead': 'eaCe', 'transferred_at': '2022-10-14'}
-'symfony_mailer':               {'lead': 'skerbis'}
+'symfony_mailer':               {'lead': ''}
 'table_migrator':               {'lead': 'skerbis', 'transferred_at': '2025-01-27'}
 'template_manager':             {'lead': 'skerbis'}
 'textile_migration':            {'lead': 'joachimdoerr'}
@@ -189,12 +189,12 @@
 'uikit_collection':             {'lead': 'Markus-GS', 'transferred_at': '2018-02-19'}
 'undo':                         {'lead': 'skerbis'}
 'uploader':                     {'lead': 'IngoWinter'}
-'uppy':                         {'lead': 'joachimdoerr, skerbis'}
+'uppy':                         {'lead': 'skerbis'}
 'urlreplacer':                  {'lead': 'skerbis'}
 'useragent':                    {'lead': ''}
 'vanilla':                      {'lead': 'eaCe', 'transferred_at': '2023-01-09'}
 'vidstack':                     {'lead': '', 'transferred_at': '2024-09-27'}
-'videopreview':                 {'lead': 'skerbis'}
+'videopreview':                 {'lead': ''}
 'writeassist':                  {'lead': 'skerbis'}
 'warehouse':                    {'lead': 'alxndr-w', 'transferred_at': '2024-10-15'}
 'webdav':                       {'lead': 'staabm'}
@@ -203,7 +203,7 @@
 'ycom_board':                   {'lead': '', 'transferred_at': '2024-10-15'}
 'ycom_login_as':                {'lead': ''}
 'yform_adminer':                {'lead': 'christophboecker'}
-'yform_calendar':               {'lead': 'skerbis'}
+'yform_calendar':               {'lead': ''}
 'yform_dropzone':               {'lead': '', 'transferred_at': '2019-04-08'}
 'yform_encryption':             {'lead': 'skerbis'}
 'yform_export':                 {'lead': 'eaCe', 'transferred_at': '2022-05-27'}
